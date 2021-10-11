@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "8fc6e7974331df57",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5afffb8a757ef2e",
+        "type": "leaf",
+        "dimension": 50.17006802721088,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Úvod do lineární algebry/Matice.md",
+            "mode": "source"
+          }
+        },
+        "group": "ca7c2d1401b073ec"
+      },
+      {
+        "id": "4e015e69909db30a",
+        "type": "leaf",
+        "dimension": 49.82993197278912,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Úvod do lineární algebry/Matice.md",
+            "mode": "preview"
+          }
+        },
+        "group": "ca7c2d1401b073ec"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c167e2bfa7ba31",
+    "type": "split",
+    "children": [
+      {
+        "id": "141ce9eb62241bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c419875edf7850fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "22d46b45545cc3bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca3aa6f19fec5c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bcd7d592704d9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d16819913ec4a76e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Úvod do lineární algebry/Matice.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4e015e69909db30a",
+  "lastOpenFiles": [
+    "Úvod do lineární algebry/Matice.md",
+    "Úvod do lineární algebry/Zobrazení.md",
+    "MA1/Untitled.md",
+    "Úvod do lineární algebry/Vektorové prostory.md",
+    "Úvod do lineární algebry/Untitled.md",
+    "ULA/Zobrazení.md",
+    "Untitled.md",
+    "ULA/Vektorové prostory.md",
+    "ULA/Untitled.md",
+    "ULA.md"
+  ]
+}
