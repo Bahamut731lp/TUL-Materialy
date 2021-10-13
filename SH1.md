@@ -18,3 +18,10 @@
 ## Práce se soubory
 - `touch <soubor>` - mění timestamp souboru `soubor`
 - `mv, cp, rm` funguje stejně jako u adresářů
+- `ls -l <soubor>` zobrazí práva
+- `chmod <prava> <soubor>` změní práva souboru
+	- Práva lze zapsat po skupinách
+		- Např. u - user, g - group, o - others, a - all
+		- Taky lze pomocí dekadických hodnot (752 - rwx r-x -w-)
+- `chgrp <skupina> <soubor>` - Změní skupinu souboru
+- `sudo chown <vlastnik> <soubor>` - Změní vlastníka

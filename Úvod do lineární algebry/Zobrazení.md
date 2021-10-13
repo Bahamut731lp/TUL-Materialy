@@ -107,6 +107,6 @@ D --> N
 **Inverzní zobrazení**
 - Zobrazuje "opačným směrem" než původní zobrazení
 	- Obrazům přiřazuje vzory
-- Zobrazení musí být *prosté* na zobrazení *na*
+- Zobrazení musí být *prosté* zobrazení *na*
 
 > $$ f(a) = b\leftrightarrow f^{-1}(b) = a  $$

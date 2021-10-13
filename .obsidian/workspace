@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "e5afffb8a757ef2e",
+        "id": "a93c977a496bb157",
         "type": "leaf",
-        "dimension": 50.17006802721088,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Matice.md",
+            "file": "Úvod do lineární algebry/Algebraické těleso.md",
             "mode": "source"
           }
-        },
-        "group": "ca7c2d1401b073ec"
+        }
       },
       {
-        "id": "4e015e69909db30a",
+        "id": "2d7b19c90930844a",
         "type": "leaf",
-        "dimension": 49.82993197278912,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Matice.md",
+            "file": "Úvod do lineární algebry/Algebraické těleso.md",
             "mode": "preview"
           }
-        },
-        "group": "ca7c2d1401b073ec"
+        }
       }
     ],
     "direction": "vertical"
@@ -83,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Úvod do lineární algebry/Matice.md",
+                "file": "Úvod do lineární algebry/Algebraické těleso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4e015e69909db30a",
+  "active": "a93c977a496bb157",
   "lastOpenFiles": [
-    "Úvod do lineární algebry/Matice.md",
-    "Úvod do lineární algebry/Zobrazení.md",
-    "MA1/Untitled.md",
+    "Úvod do lineární algebry/Algebraické těleso.md",
     "Úvod do lineární algebry/Vektorové prostory.md",
     "Úvod do lineární algebry/Untitled.md",
-    "ULA/Zobrazení.md",
-    "Untitled.md",
-    "ULA/Vektorové prostory.md",
-    "ULA/Untitled.md",
-    "ULA.md"
+    "Úvod do lineární algebry/Lineární Kombinace.md",
+    "Seminář z Matematiky/Goniometrické funkce.md",
+    "Seminář z Matematiky/Untitled.md",
+    "SH1.md",
+    "Algoritmizace a programování/Úvod do terminologie.md",
+    "Algoritmizace a programování/Untitled.md",
+    "Algoritmizace a programování/ALG1.md"
   ]
 }
