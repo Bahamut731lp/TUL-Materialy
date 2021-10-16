@@ -1,27 +1,6 @@
 # Úvod do terminologie
 
 ## Pojmy
-| Pojem | Význam  |
-| :-------: | :------ |
-| Algoritmus | Postup pro řešení daného problému|
-| Algoritmizace | Způsob, kterým vytváříme algoritmus|
-
-|Pojem| Význam|
-|:--:|:--:|
-| Program | |
-| Programovací jazyk | Prostředek pro zápis algoritmů |
-
-|Pojem| Význam|
-|:--:|:--:|
-| Úroveň abstrakce | Jak moc je syntaxe programovacího jazyka blízko lidskému jazyku, nebo strojovému kódu |
-| Nižší jazyk | Programovací jazyk, jehož syntaxe je blíže ke strojovému kódu (Má nízkou úroveň abstrakce) |
-| Vyšší jazyk | Programovací jazyk, jehož syntaxe je blíže k lidskému jazyku (Má vysokou úroveň abstrakce) |
-
-|Pojem| Význam|
-|:--:|:--:|
-| Kompilovaný jazyk | Před během programu je potřeba program sestavit do spustitelného souboru |
-| Interpretovaný jazyk| Instrukce se překládájí zaběhu|
-
 
 | Syntax | Pravidla pro správný zápis instrukcí |
 

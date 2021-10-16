@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a93c977a496bb157",
+        "id": "13b4eec8bc0c0e9e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Algebraické těleso.md",
+            "file": "Algoritmizace a programování/Úvod do terminologie.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "2d7b19c90930844a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Úvod do lineární algebry/Algebraické těleso.md",
-            "mode": "preview"
           }
         }
       }
@@ -63,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298
   },
   "right": {
     "id": "ca3aa6f19fec5c52",
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Úvod do lineární algebry/Algebraické těleso.md",
+                "file": "Algoritmizace a programování/Úvod do terminologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a93c977a496bb157",
+  "active": "13b4eec8bc0c0e9e",
   "lastOpenFiles": [
-    "Úvod do lineární algebry/Algebraické těleso.md",
-    "Úvod do lineární algebry/Vektorové prostory.md",
-    "Úvod do lineární algebry/Untitled.md",
-    "Úvod do lineární algebry/Lineární Kombinace.md",
-    "Seminář z Matematiky/Goniometrické funkce.md",
-    "Seminář z Matematiky/Untitled.md",
-    "SH1.md",
     "Algoritmizace a programování/Úvod do terminologie.md",
+    "Algoritmizace a programování/Program a programovací jazyk.md",
+    "Algoritmizace a programování/Algoritmizace a algoritmy.md",
+    "Algoritmizace a programování/Alokování paměti.md",
+    "Algoritmizace a programování/Abstrakce.md",
     "Algoritmizace a programování/Untitled.md",
-    "Algoritmizace a programování/ALG1.md"
+    "Matematika 1/Množiny/Množiny.md",
+    "Matematika 1/Množiny/Množinové operace.md",
+    "Matematika 1/Množiny/Číselné množiny.md",
+    "Matematika 1/Komplexní čísla/Úvod a tvary komplexních čísel.md"
   ]
 }

@@ -6,5 +6,6 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "attachmentFolderPath": "Obrázky"
+  "attachmentFolderPath": "Obrázky",
+  "alwaysUpdateLinks": true
 }

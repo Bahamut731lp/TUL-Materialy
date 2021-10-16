@@ -28,7 +28,11 @@ Když mluvíme o těchto binárních operacích, říkáme, že provádíme oper
 - a s jakým typem matematického objektu pracují
 
 ```mermaid
-flowchart
+flowchart TB
+
+subgraph Operace
+	PLUS[Sčítání]
+end
 
 subgraph Těleso
 	0[Prvek]
@@ -37,9 +41,6 @@ subgraph Těleso
 	3[Prvek 4]
 end
 
-subgraph Operace
-	PLUS[Sčítání]
-end
 0 --> PLUS --> 2
 1 --> PLUS
 

@@ -19,3 +19,5 @@ Matice se běžně nazývají velkými písmeny ($A, B, C, ...$) a prvky písmen
 
 
 [^1]: Pokud je matice vícerozměrná (např. 4 rozměrná), tak existuje index pro každý rozměr.
+
+matic

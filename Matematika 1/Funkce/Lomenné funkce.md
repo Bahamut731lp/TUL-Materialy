@@ -1,0 +1,1 @@
+# Lomenné funkce
