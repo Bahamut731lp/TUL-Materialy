@@ -1,0 +1,1 @@
+# Operace s polynomy

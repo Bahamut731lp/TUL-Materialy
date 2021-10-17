@@ -4,13 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "13b4eec8bc0c0e9e",
+        "id": "75c6dcf10b77c535",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmizace a programování/Úvod do terminologie.md",
+            "file": "Matematika 1/Polynomy/Bezoutova věta.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "d8076c66199da80d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matematika 1/Polynomy/Vietovy vzorce.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmizace a programování/Úvod do terminologie.md",
+                "file": "Matematika 1/Polynomy/Bezoutova věta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "13b4eec8bc0c0e9e",
+  "active": "75c6dcf10b77c535",
   "lastOpenFiles": [
-    "Algoritmizace a programování/Úvod do terminologie.md",
-    "Algoritmizace a programování/Program a programovací jazyk.md",
-    "Algoritmizace a programování/Algoritmizace a algoritmy.md",
-    "Algoritmizace a programování/Alokování paměti.md",
-    "Algoritmizace a programování/Abstrakce.md",
-    "Algoritmizace a programování/Untitled.md",
-    "Matematika 1/Množiny/Množiny.md",
-    "Matematika 1/Množiny/Množinové operace.md",
-    "Matematika 1/Množiny/Číselné množiny.md",
-    "Matematika 1/Komplexní čísla/Úvod a tvary komplexních čísel.md"
+    "Matematika 1/Polynomy/Bezoutova věta.md",
+    "Matematika 1/Polynomy/Co je to polynom.md",
+    "Matematika 1/Polynomy/Kořen polynomu.md",
+    "Matematika 1/Polynomy/Operace s polynomy.md",
+    "Matematika 1/Polynomy/Stupeň polynomu.md",
+    "Matematika 1/Polynomy/Základní věta algebry.md",
+    "Matematika 1/Polynomy/Vietovy vzorce.md",
+    "Matematika 1/Množiny/Sumace.md",
+    "Úvod do lineární algebry/Algebraické těleso.md",
+    "Untitled.md"
   ]
 }
