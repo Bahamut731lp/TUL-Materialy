@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "75c6dcf10b77c535",
+        "id": "aa8ae9a20a9f82d6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Polynomy/Bezoutova věta.md",
+            "file": "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
             "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "d8076c66199da80d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Matematika 1/Polynomy/Vietovy vzorce.md",
-            "mode": "preview"
           }
         }
       }
@@ -79,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Polynomy/Bezoutova věta.md",
+                "file": "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "75c6dcf10b77c535",
+  "active": "aa8ae9a20a9f82d6",
   "lastOpenFiles": [
-    "Matematika 1/Polynomy/Bezoutova věta.md",
-    "Matematika 1/Polynomy/Co je to polynom.md",
-    "Matematika 1/Polynomy/Kořen polynomu.md",
-    "Matematika 1/Polynomy/Operace s polynomy.md",
-    "Matematika 1/Polynomy/Stupeň polynomu.md",
-    "Matematika 1/Polynomy/Základní věta algebry.md",
-    "Matematika 1/Polynomy/Vietovy vzorce.md",
-    "Matematika 1/Množiny/Sumace.md",
-    "Úvod do lineární algebry/Algebraické těleso.md",
-    "Untitled.md"
+    "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
+    "Matematika 1/Funkce/Vlastnosti funkce/Omezenost funkce.md",
+    "Matematika 1/Funkce/Vlastnosti funkce/Prostost funkce.md",
+    "Matematika 1/Funkce/Vlastnosti funkce/Parita funkce.md",
+    "Matematika 1/Funkce/Druhy funkcí/Cyklometrické funkce.md",
+    "Matematika 1/Funkce/Druhy funkcí/Goniometrické funkce.md",
+    "Matematika 1/Funkce/Druhy funkcí/Mocniná funkce.md",
+    "Matematika 1/Funkce/Druhy funkcí/Kvadratická funkce.md",
+    "Matematika 1/Funkce/Druhy funkcí/Logaritmus.md",
+    "Matematika 1/Funkce/Druhy funkcí/Exponenciální funkce.md"
   ]
 }

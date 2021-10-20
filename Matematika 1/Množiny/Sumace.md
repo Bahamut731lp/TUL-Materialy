@@ -1,5 +1,7 @@
 # Sumace
-- Sumace je **sčítání [[Množiny|množiny]] čísel**.  Výsledku se říká **suma**.
+> Sumace je **sčítání [[Vlastnosti množiny|množiny]] čísel**.  Výsledku se říká **suma**.
+
+Jedná se o opakované sčítání nějakého výrazu, dokud nedosáhneme horní hranice sumy nebo nekonečna.
 
 Sumace ale dokáže pracovat nejenom s čísly, ale i se všemy prvky, pro které jsou [[Algebraické těleso|patřičné operace definovány]]
 

@@ -68,19 +68,4 @@ Jako prvky množiny mohou být další množiny, přičemž se počítají **jak
 >$$M_3=\set{3,\set{4,5}}$$
 >$$M_4=6$$
 
-
----
-## Podmnožiny
-Důležitou vlastností je vytváření **podmnožin** - jedná se o ještě specifičtější výběr z naší původní množiny. Podmnožiny mají vždy velikost **menší** než původní množina.[^1]
-
->$$A=\set{1,2,3}$$
-$$B=\set{1,2}$$
-$$B\subset A$$
-
-Z definice výše můžeme říct, že 
-- množina $B$ je **podmnožinou** množiny $A$ 
-- a naopak - že množina $A$ je **nadmnožinou** množiny $B$.
-- Podmnožinu značíme značkou $\subset$
-- Nadmnožinu značíme značkou $\supset$
-
 [^1]: Kdyby měli velikost větší, nazývala by se **nadmnožinou**, přičemž ta naše původní množina by byla podmnožinou.

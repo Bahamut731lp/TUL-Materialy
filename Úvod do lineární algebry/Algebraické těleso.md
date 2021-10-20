@@ -1,7 +1,7 @@
 # Algebraické těleso
 
 Algebraické těselo $T$ je 
-- **libovolná [[Množiny|množina]]**
+- **libovolná [[Vlastnosti množiny|množina]]**
 - a dvě binární operace
 
 Množina může být skutečně libovolná. Jedinou podmínkou je, že nesmí být prázdná ($T\not= \emptyset$).

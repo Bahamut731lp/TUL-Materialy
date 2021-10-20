@@ -9,7 +9,7 @@ V matematice ale občas narazíme na situaci, kdy něco nemůžeme spočítat. Z
 Předpis funkce není nic jiného, než nějaký výpočet, do kterého dosazujeme čísla. Tím nám hrozí situace, že dosadíme číslo, se kterým nejde funkce spočítat.
 
 Abychom věděli, co za čísla můžeme do funkce dosadit, tak si vytváříme tazvaný **definiční obor funkce**. 
--	Jedná se o [[Množiny|množinu]] všech čísel, které můžeme dosadit jako [[Úvod do funkcí#Základní pojmy k funkcím|argument funkce]].
+-	Jedná se o [[Vlastnosti množiny|množinu]] všech čísel, které můžeme dosadit jako [[Úvod do funkcí#Základní pojmy k funkcím|argument funkce]].
 -	Definiční obor funkce $f$ značíme jako $D(f)$[^1]
 
 >Příklad:

@@ -1,5 +1,5 @@
 # Číselné množiny
-Číselné množiny jsou speciálním případem [[Množiny|množin]], které zahrnují všechna čísla rozdělená do několika oborů podle jejich vlastností.
+Číselné množiny jsou speciálním případem [[Vlastnosti množiny|množin]], které zahrnují všechna čísla rozdělená do několika oborů podle jejich vlastností.
 
 ---
 ## Přirozená čísla

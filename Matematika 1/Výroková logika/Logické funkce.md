@@ -25,7 +25,7 @@ Konjunkce logických hodnot, neboli **logický součin**, je funkce, která vrá
 ## Disjunkce / OR
 Disjunkce logických hodnot, neboli **logický součet**, je funkce, která vrátí pravdu tehdy, pokud alespoň jeden argument je pravda.
 
-|A|B|A\*B|
+|A|B|A\+B|
 |:--:|:--:|:--:|
 |0|0|0|
 |0|1|1|
