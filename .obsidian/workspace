@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "aa8ae9a20a9f82d6",
+        "id": "176b6c721a75bea4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
+            "file": "Matematika 1/Množiny/Číselné množiny.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "9ea6a51fdaa92882"
+      },
+      {
+        "id": "1e74b86fa3d0c624",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matematika 1/Množiny/Číselné množiny.md",
+            "mode": "preview"
+          }
+        },
+        "group": "9ea6a51fdaa92882"
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
+                "file": "Matematika 1/Množiny/Číselné množiny.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "aa8ae9a20a9f82d6",
+  "active": "176b6c721a75bea4",
   "lastOpenFiles": [
-    "Matematika 1/Funkce/Vlastnosti funkce/Extrémy.md",
-    "Matematika 1/Funkce/Vlastnosti funkce/Omezenost funkce.md",
-    "Matematika 1/Funkce/Vlastnosti funkce/Prostost funkce.md",
-    "Matematika 1/Funkce/Vlastnosti funkce/Parita funkce.md",
-    "Matematika 1/Funkce/Druhy funkcí/Cyklometrické funkce.md",
-    "Matematika 1/Funkce/Druhy funkcí/Goniometrické funkce.md",
-    "Matematika 1/Funkce/Druhy funkcí/Mocniná funkce.md",
-    "Matematika 1/Funkce/Druhy funkcí/Kvadratická funkce.md",
-    "Matematika 1/Funkce/Druhy funkcí/Logaritmus.md",
-    "Matematika 1/Funkce/Druhy funkcí/Exponenciální funkce.md"
+    "Matematika 1/Množiny/Číselné množiny.md",
+    "Matematika 1/Množiny/Prázdné množiny.md",
+    "Matematika 1/Množiny/Vlastnosti množiny.md",
+    "Matematika 1/Množiny/Sumace.md",
+    "Matematika 1/Množiny/Podmnožiny.md",
+    "Algoritmizace a programování/Prostředky programovacích jazyků/Debugger.md",
+    "Algoritmizace a programování/Prostředky programovacích jazyků/Linter.md",
+    "Algoritmizace a programování/Skládání programu/Transpilovaný jazyk.md",
+    "Algoritmizace a programování/Datové struktury.md",
+    "Algoritmizace a programování/API.md"
   ]
 }

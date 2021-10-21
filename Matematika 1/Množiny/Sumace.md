@@ -1,14 +1,19 @@
 # Sumace
-> Sumace je **sčítání [[Vlastnosti množiny|množiny]] čísel**.  Výsledku se říká **suma**.
+Sumace je **sčítání [[Vlastnosti množiny|množiny]] čísel**.  Výsledku se říká **suma**.
+
+> TL,DR: 
+> - Sumace je opakované sčítání argumentu.
 
 Jedná se o opakované sčítání nějakého výrazu, dokud nedosáhneme horní hranice sumy nebo nekonečna.
 
 Sumace ale dokáže pracovat nejenom s čísly, ale i se všemy prvky, pro které jsou [[Algebraické těleso|patřičné operace definovány]]
 
-Sumace se značí **sumačním znakem** $\sum^n_{i=m}$ (velké řecké písmeno sigma)
-- $i$ je **sumační index**
-- $m$ je **spodní hranice** sumace (začátek)
-- $n$ je **horní hranice** sumace (konec)
+Sumace se značí **sumačním znakem** *(velké řecké písmeno sigma)*
+
+>$$\huge \sum^n_{i=m}$$
+>-  $i$ je **sumační index**
+>- $m$ je **spodní hranice** sumace (začátek)
+>- $n$ je **horní hranice** sumace (konec)
 
 >Příklad sumace:
 >$$\sum^6_{k=2}k^2=2^2+3^2+4^2+5^2+6^2=90$$

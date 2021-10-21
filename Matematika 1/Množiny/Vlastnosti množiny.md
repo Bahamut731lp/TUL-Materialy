@@ -1,6 +1,10 @@
 # Množiny
 Množina je **soubor určitých prvků** se společnou vlastností. Běžně je značíme velkými písmeny ($M, N, P, ...$) a jejich prvky písmeny malými - podobně jako u [[Matice|matic]].
 
+> **TL,DR:**
+> - Množina je soubor prvků
+> - Definovat je můžeme výčtem nebo vlastností
+
 Množiny můžeme definovat buďto
 - výčtem $M=\set{1,2,3,4,5,...}$
 - nebo vlastností $M=\set{x\in M, x< 4}$
@@ -13,11 +17,7 @@ Množiny tedy používáme k vymezení možností, ze kterých můžeme vybírat
 
 ---
 ## Vlastnosti množin
-### Prázdné množiny
-Množiny mají speciální vlastnost - a to, že mohou být prázdné. Prázdné množiny se značí $M=\set{}$ nebo $M=\emptyset$.
-- Pozor, $M=\set{\emptyset}$ je **množina s prázdnou množinou uvnitř** a není tím pádem prázdná!
 
----
 ### (Ne)uspořádanost prvků
 V množinách na pořadí prvků **nezáleží**
 >$$M=\set{1,2,3}$$
@@ -26,7 +26,7 @@ $$N=\set{3,1,2}$$
 Množiny $M$ a $N$ jsou v tomto případě **stejné**.
 
 ---
-### Duplicity
+### Prostost množiny
 Množinám ani nevadí několikanásobný výskyt jednoho a toho samého prvku.
 >$$M=\set{1,2,3,4,5}$$
 $$N=\set{3,5,5,1,2,5,4}$$

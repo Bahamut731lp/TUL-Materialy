@@ -1,49 +1,5 @@
 # Úvod do terminologie
 
-## Pojmy
-
-| Syntax | Pravidla pro správný zápis instrukcí |
-
-
-## Algoritmizace
-Algoritmizace je postup, pomocí kterého vytváříme řešení pro daný problém - vytváříme algoritmus.
-
-$$Algoritmizace \rightarrow Algoritmus$$
-
-Proces algoritmizace by se dal shrnout pěti bodů:
-1) Formulace problému
-2) Analýza problému
-3) Návrh řešení
-4) Vytvoření řešení
-5) Kontrola řešení
-
-Výsledkem těchto pěti kroků bude **algoritmus** - popis postupu k řešení analyzovaného problému. 
-
-Jak ale takový algoritmus vypadá? No záleží, jak ho chceme prezentovat. Algoritmus totiž může být zapsán:
-- Slovy
-- Graficky pomocí vývojových diagramů
-- Matematickým zápisem
-- Pomocí rozhodovací tabulky
-- Pomocí programovacího či pseudo jazyka
-- ...
-
-Každý algoritmus by měl ale bez ohledu na formu zápisu splňovat **pět podmínek**, které z něho algoritmus dělají:
-
-| Vlastnost | Vysvětlení |
-| :---: | :---: |
-| Konečnost | Algoritmus má konečný počet kroků|
-| Elementárnost | Algoritmus je složen ze základních instrukcí |
-| Obecnost | Umí řešit problém pro různé vstupy|
-| Rezultativnost | Vždy vede k nějakému výsledku |
-| Determinovanost | Stejné vstupy nám vždy vrátí stejný výsledek|
-| Úspornost | Používá se co nejméně možných prostředků |
-
-Některé to bude chtít trochu dovysvětlit:
-- **Determinovanost** je vlastnost, která nám říká, že když dvakrát zadám stejný vstup, tak mi program vrátí dvakrát to stejné číslo. 
-	- Algoritmus by tedy neměl pracovat s proměnnými, které jsou deklarovány mimo a ví o nich akorát programátor.
-	- Není tam žádná vnější náhoda
-- **Úspornost** je taková vlastnost na půl, protože to není nutné, ale rozhodně bychom měli mířit k nejlepší efektivitě.
-
 ## Program
 Pokud chceme náš algoritmus někde nechat pracovat, musíme mu proto vytvořit adekvátní prostředí. K tomu slouží **programovací jazyky**, které slouží k tvorbě **programů**.
 
