@@ -1,31 +1,33 @@
 {
   "main": {
-    "id": "8fc6e7974331df57",
+    "id": "3e7d469bb3d92062",
     "type": "split",
     "children": [
       {
-        "id": "176b6c721a75bea4",
+        "id": "536cd07119532442",
         "type": "leaf",
+        "dimension": 58.9628681177977,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Množiny/Číselné množiny.md",
+            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
             "mode": "source"
           }
         },
-        "group": "9ea6a51fdaa92882"
+        "group": "46e8d9a50370b368"
       },
       {
-        "id": "1e74b86fa3d0c624",
+        "id": "cda2373864e8d2b9",
         "type": "leaf",
+        "dimension": 41.0371318822023,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Množiny/Číselné množiny.md",
+            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
             "mode": "preview"
           }
         },
-        "group": "9ea6a51fdaa92882"
+        "group": "46e8d9a50370b368"
       }
     ],
     "direction": "vertical"
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Množiny/Číselné množiny.md",
+                "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "176b6c721a75bea4",
+  "active": "536cd07119532442",
   "lastOpenFiles": [
+    "Úvod do lineární algebry/Gaussova eliminační metoda.md",
+    "Matematika 1/Limity/Úvod do limit.md",
+    "Matematika 1/Limity/Hromadný bod.md",
+    "Matematika 1/Limity/Okolí bodu.md",
+    "Matematika 1/Posloupnosti/Úvod do posloupností.md",
+    "Matematika 1/Množiny/Nadmnožiny.md",
+    "Matematika 1/Množiny/Podmnožiny.md",
     "Matematika 1/Množiny/Číselné množiny.md",
     "Matematika 1/Množiny/Prázdné množiny.md",
-    "Matematika 1/Množiny/Vlastnosti množiny.md",
-    "Matematika 1/Množiny/Sumace.md",
-    "Matematika 1/Množiny/Podmnožiny.md",
-    "Algoritmizace a programování/Prostředky programovacích jazyků/Debugger.md",
-    "Algoritmizace a programování/Prostředky programovacích jazyků/Linter.md",
-    "Algoritmizace a programování/Skládání programu/Transpilovaný jazyk.md",
-    "Algoritmizace a programování/Datové struktury.md",
-    "Algoritmizace a programování/API.md"
+    "Matematika 1/Množiny/Vlastnosti množiny.md"
   ]
 }
