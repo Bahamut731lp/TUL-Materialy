@@ -6,11 +6,11 @@
       {
         "id": "536cd07119532442",
         "type": "leaf",
-        "dimension": 58.9628681177977,
+        "dimension": 48.60050890585242,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
+            "file": "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "cda2373864e8d2b9",
         "type": "leaf",
-        "dimension": 41.0371318822023,
+        "dimension": 51.399491094147585,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
+            "file": "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
             "mode": "preview"
           }
         },
@@ -67,51 +67,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298
+    "width": 299
   },
   "right": {
     "id": "ca3aa6f19fec5c52",
     "type": "split",
-    "children": [
-      {
-        "id": "5bcd7d592704d9cd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d16819913ec4a76e",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          }
-        ]
-      }
-    ],
+    "children": [],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
   "active": "536cd07119532442",
   "lastOpenFiles": [
+    "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
+    "Úvod do diskrétní matematiky/Kombinatorika/Permutace.md",
+    "Úvod do diskrétní matematiky/Kombinatorika/Pravidlo součinu.md",
+    "Úvod do diskrétní matematiky/Kombinatorika/Pravidlo součtu.md",
+    "Úvod do diskrétní matematiky/Kombinatorika/Přehled.md",
+    "Úvod do diskrétní matematiky/Kombinatorika/Faktoriál.md",
+    "Algoritmizace a programování/Skládání programu/Transpilovaný jazyk.md",
     "Úvod do lineární algebry/Gaussova eliminační metoda.md",
-    "Matematika 1/Limity/Úvod do limit.md",
     "Matematika 1/Limity/Hromadný bod.md",
-    "Matematika 1/Limity/Okolí bodu.md",
-    "Matematika 1/Posloupnosti/Úvod do posloupností.md",
-    "Matematika 1/Množiny/Nadmnožiny.md",
-    "Matematika 1/Množiny/Podmnožiny.md",
-    "Matematika 1/Množiny/Číselné množiny.md",
-    "Matematika 1/Množiny/Prázdné množiny.md",
-    "Matematika 1/Množiny/Vlastnosti množiny.md"
+    "Matematika 1/Limity/Úvod do limit.md"
   ]
 }

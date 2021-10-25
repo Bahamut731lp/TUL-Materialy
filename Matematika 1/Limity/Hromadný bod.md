@@ -4,9 +4,10 @@ Hromadný bod je bod, v jehož okolí se hromadí nekonečně mnoho dalších bo
 ---
 ## Přesnější definice
 Trochu přesnější definicí hromadného bodu by bylo
+
 > Hromadný bod množiny $M$ je prvek, pro který platí, že v jeho [[Okolí bodu#Redukované okolí|redukovaném okolí]], a to jakkoliv velkém, leží další prvky množiny $M$.
 > $$\forall \epsilon > 0 : R(a, \epsilon)\cap M \not= \emptyset$$
-> *Pro každé okolí epsilon větší než nula existuje redukované okolí okolo hromadného bodu A, které není prázdnou množinou.*
+> *Pro každé okolí epsilon větší než nula existuje redukované okolí okolo hromadného bodu $a$, které není prázdnou množinou.*
 
 Každé reálné číslo je hromadným bodem, protože ať zvolíme jakkoliv velké okolí, vždycky tam bude nekonečně mnoho dalších čísel. 
 
