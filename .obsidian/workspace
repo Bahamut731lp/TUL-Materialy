@@ -1,33 +1,31 @@
 {
   "main": {
-    "id": "3e7d469bb3d92062",
+    "id": "eebae563341824e3",
     "type": "split",
     "children": [
       {
-        "id": "536cd07119532442",
+        "id": "f78da34613cdf622",
         "type": "leaf",
-        "dimension": 48.60050890585242,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
+            "file": "Matematika 1/Derivace/Diferenciál.md",
             "mode": "source"
           }
         },
-        "group": "46e8d9a50370b368"
+        "group": "63cea4997a01c5b2"
       },
       {
-        "id": "cda2373864e8d2b9",
+        "id": "5f75f91d23004f25",
         "type": "leaf",
-        "dimension": 51.399491094147585,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
+            "file": "Matematika 1/Derivace/Diferenciál.md",
             "mode": "preview"
           }
         },
-        "group": "46e8d9a50370b368"
+        "group": "63cea4997a01c5b2"
       }
     ],
     "direction": "vertical"
@@ -72,22 +70,46 @@
   "right": {
     "id": "ca3aa6f19fec5c52",
     "type": "split",
-    "children": [],
+    "children": [
+      {
+        "id": "20a73b1095e80537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a27969bff4ad66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "536cd07119532442",
+  "active": "f78da34613cdf622",
   "lastOpenFiles": [
-    "Úvod do diskrétní matematiky/Kombinatorika/Variace.md",
-    "Úvod do diskrétní matematiky/Kombinatorika/Permutace.md",
-    "Úvod do diskrétní matematiky/Kombinatorika/Pravidlo součinu.md",
-    "Úvod do diskrétní matematiky/Kombinatorika/Pravidlo součtu.md",
-    "Úvod do diskrétní matematiky/Kombinatorika/Přehled.md",
-    "Úvod do diskrétní matematiky/Kombinatorika/Faktoriál.md",
-    "Algoritmizace a programování/Skládání programu/Transpilovaný jazyk.md",
-    "Úvod do lineární algebry/Gaussova eliminační metoda.md",
-    "Matematika 1/Limity/Hromadný bod.md",
-    "Matematika 1/Limity/Úvod do limit.md"
+    "Matematika 1/Derivace/Diferenciál.md",
+    "Matematika 1/Derivace/Základní vzorce pro derivace.md",
+    "Matematika 1/Derivace/Příklady derivací z definice.md",
+    "Matematika 1/Derivace/Úvod do derivací.md",
+    "Matematika 1/Derivace/Podmínky pro existenci derivace.md",
+    "Matematika 1/Funkce/Druhy funkcí/Absolutní funkce.md",
+    "Matematika 1/Vlastnosti matematických objektů/Spojitost.md",
+    "Matematika 1/Funkce/Vlastnosti funkce/Jednoznačnost funkce.md",
+    "Matematika 1/Množiny/Sumace.md",
+    "Matematika 1/Přímky/Tečna.md"
   ]
 }

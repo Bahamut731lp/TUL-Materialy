@@ -25,3 +25,30 @@
 		- Taky lze pomocí dekadických hodnot (752 - rwx r-x -w-)
 - `chgrp <skupina> <soubor>` - Změní skupinu souboru
 - `sudo chown <vlastnik> <soubor>` - Změní vlastníka
+
+## Vstupy a výstupy
+`stdin` - Standardní vstup
+`stdout` (1) - Standardní výstup
+`stderrout` (2) - Standardní chybový výstup
+
+Přesměrování výstupu probíhá pomocí operátoru `>`.
+- Jeden znak přepisuje soubor
+- Dva přidává nakonec
+
+`/dev/random` - soubor s random znaky
+`/dev/zero` - soubor samých null
+`/dev/full` - simuluje plný disk
+`/dev/null` - "černá díra"
+
+`2 > /dev/null` - přesměrování chybového výstupu do černé díry
+
+## Roura
+`příkaz1 | příkaz2` - standardní výstup `příkazu1` se stane standardním vstupem `příkazu2`
+
+`echo` vytiskne vstup
+`cat` vytiskne obsah souboru
+`wc` (word count) spočítá slova
+`head` vytiskne část souboru, v parametru jde říct kolik řádků (`head -5` vytiskne 5 řádků)
+`tail` vytiskne část souboru od konce
+`grep` vyfiltruje vstup podle zadaného regulárního výrazu
+`tr` změní znaky vstupuw
