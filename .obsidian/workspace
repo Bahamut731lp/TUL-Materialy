@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Derivace/Diferenciál.md",
+            "file": "Matematika 1/Derivace/Úvod do derivací.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Derivace/Diferenciál.md",
+            "file": "Matematika 1/Derivace/Úvod do derivací.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "file": "Matematika 1/Derivace/Úvod do derivací.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "f78da34613cdf622",
   "lastOpenFiles": [
+    "Matematika 1/Derivace/Úvod do derivací.md",
     "Matematika 1/Derivace/Diferenciál.md",
+    "Matematika 1/Přímky/Sečna.md",
+    "Matematika 1/Přímky/Směrnicový tvar přímky.md",
+    "Úvod do lineární algebry/Matice.md",
+    "Úvod do lineární algebry/Algebraické těleso.md",
+    "Matematika 1/Přímky/Tečna.md",
     "Matematika 1/Derivace/Základní vzorce pro derivace.md",
     "Matematika 1/Derivace/Příklady derivací z definice.md",
-    "Matematika 1/Derivace/Úvod do derivací.md",
-    "Matematika 1/Derivace/Podmínky pro existenci derivace.md",
-    "Matematika 1/Funkce/Druhy funkcí/Absolutní funkce.md",
-    "Matematika 1/Vlastnosti matematických objektů/Spojitost.md",
-    "Matematika 1/Funkce/Vlastnosti funkce/Jednoznačnost funkce.md",
-    "Matematika 1/Množiny/Sumace.md",
-    "Matematika 1/Přímky/Tečna.md"
+    "Matematika 1/Derivace/Podmínky pro existenci derivace.md"
   ]
 }
