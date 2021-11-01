@@ -25,20 +25,20 @@ Vybereme si tedy bod další bod na křivce, který není totožný s derivovan�
 >Sečna procházejícím body $[a, f(a)]$ a $[b, f(b)]$
 >![[Pasted image 20211026231911.png]]
 
-Jak budeme vzdálenost mezi těmito body zmenšovat, tak bude sečna blíž a blíž připomínat námi hledanou [[Sečna|sečnu]].
+Jak budeme vzdálenost mezi těmito body zmenšovat, tak bude sečna blíž a blíž připomínat námi hledanou [[Tečna|tečnu]].
 
 >- Body $C_1$ a $C_2$ jsou blíž a blíž bodu $A$
 >- Směrnice sečen, na kterých body $C_1$ a $C_2$ leží (čárkované čáry) se víc a víc blíží k námi hledané <span style="color: red">tečně</span>
 >![[Pasted image 20211026233029.png]]
 
-Problém ale je, že se ať si body přiblížíme jak chcem, tak pořád nemůžeme tyto body spojit do jednoho, jinak bychom [[Směrnicový tvar přímky#Směrnice přímky|směrnici]] nemohli vypočítat[^1]. Máme tedy nějaký nástroj, který by nám ten druhý bod přiblížil nekonečně blízko? No samozřejmě. [[Úvod do limit|Limity]].
+Problém ale je, že se ať si body přiblížíme jak chcem, tak pořád nemůžeme tyto body spojit do jednoho, jinak bychom [[Směrnicový tvar přímky#Směrnice přímky|směrnici]] nemohli vypočítat[^1]. Máme tedy nějaký nástroj, který by nám ten druhý bod přiblížil nekonečně blízko? No samozřejmě. [[Limita funkce|Limity]].
 
 > Zápis, kde se nám $b$ limitně blíží k $a$
 > $$\Large\lim_{b\to a} = \frac{f(b) - f(a)}{b-a} = \frac{\Delta{y}}{\Delta{x}}$$
 
 Body k sobě limitně přiblížíme tak blízko, že budou v podstatě jeden.
 
-Pokud bychom si vzdálenost mezi těmi dvěma body ležícími na sečně označili nějakým písmenkem (např. $h$), tak můžeme zkoumat [[Úvod do limit|limitu]], když by se tahle vzdálenost $h$ blížila k nule.
+Pokud bychom si vzdálenost mezi těmi dvěma body ležícími na sečně označili nějakým písmenkem (např. $h$), tak můžeme zkoumat [[Limita funkce|limitu]], když by se tahle vzdálenost $h$ blížila k nule.
 
 >Zápis pomocí vzdálenosti $h$
 > $$\Large\lim_{h\to 0} = \frac{f(a + h) - f(a)}{h} = \frac{\Delta{y}}{\Delta{x}}$$

@@ -51,4 +51,4 @@ Přesměrování výstupu probíhá pomocí operátoru `>`.
 `head` vytiskne část souboru, v parametru jde říct kolik řádků (`head -5` vytiskne 5 řádků)
 `tail` vytiskne část souboru od konce
 `grep` vyfiltruje vstup podle zadaného regulárního výrazu
-`tr` změní znaky vstupuw
+`tr` změní znaky vstupu

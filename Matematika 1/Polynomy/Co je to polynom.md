@@ -2,7 +2,7 @@
 Polynom ***(mnohočlen)*** je výraz, který se skládá jenom ze sčítání, odčítání, násobení a umocňování [[Číselné množiny#Celá čísla|celými kladnými čísly]].
 
 > Příklad polynomu:
-> $$P(x,y,z)=2x^2yz^3-3.1y^2+5yz-2$$
+> $$\large P(x,y,z)=2x^2yz^3-3.1y^2+5yz-2$$
 
 - Číslo, kterým násobím neznámé, se nazývá **koeficient**.
 

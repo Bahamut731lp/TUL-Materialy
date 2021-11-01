@@ -2,9 +2,11 @@
 Funkce jsou v matematice druh objektů, se kterými mám já osobně *love-hate relationship*. Funkce jsou velmi užitečným nástrojem a zajímavým tématem, ale spoustou lidí zbytečně komplikovaný. Já se tedy pokusím popisovat funkce pokud možno tím nejjednoduším způsobem, který bude možný.
 
 ## Co je vlastně funkce?
-Funkci si můžeme představit jako stroj, do kterého když vložíme nějaký vstup, tak on nám vyplivne nějaký výstup. 
+Funkci si můžeme představit jako stroj, do kterého když vložíme nějaký vstup, tak on nám vyplivne nějaký výstup.
 
 Toť vše. Takhle fungují funkce.
+
+Trochu formálněji můžeme říct, že funkce určuje vztah mezi sadou vstupů a sadou výstupů, kde každý vstup nějak souvisí s nějakým výstupem
 
 Samozřejmě jak to vevnitř ten vstup zpracovává už je ta složitější část, a naším úkolem je ve většině případů právě zkoumat tento postup a jeho chování v různých hodnotách. 
 

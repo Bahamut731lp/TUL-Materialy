@@ -1,5 +1,5 @@
 # Zobrazení
-> **Zobrazení** je v [matematice](https://cs.wikipedia.org/wiki/Matematika "Matematika") předpis, kterým se prvkům určité [množiny](https://cs.wikipedia.org/wiki/Mno%C5%BEina "Množina") _X_ přiřazuje **nejvýše jeden** prvek množiny _Y_. Přesněji mluvíme o _zobrazení z množiny X do množiny Y_.
+> **Zobrazení** (v angličtině *map* či *mapping*) je v [matematice](https://cs.wikipedia.org/wiki/Matematika "Matematika") předpis, kterým se prvkům určité [množiny](https://cs.wikipedia.org/wiki/Mno%C5%BEina "Množina") _X_ přiřazuje **nejvýše jeden** prvek množiny _Y_. Přesněji mluvíme o _zobrazení z množiny X do množiny Y_.
 ![[Pasted image 20211011203657.png]]
 
 Zobrazení nám tedy říká, jakým způsobem máme přiřadit věci z jedné skupiny k věcem z druhé skupiny (viz obrázek).

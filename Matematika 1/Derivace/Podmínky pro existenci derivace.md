@@ -1,5 +1,5 @@
 # Podmínky pro existenci derivace
-Vzhledem k faktu, že jsou [[Úvod do derivací|derivace]] postavené na [[Úvod do limit|limitách]], tak přejímají i jejich vlastnosti a podmínky pro existenci.
+Vzhledem k faktu, že jsou [[Úvod do derivací|derivace]] postavené na [[Limita funkce|limitách]], tak přejímají i jejich vlastnosti a podmínky pro existenci.
 
 Pro derivaci tedy platí, že aby mohla existovat, tak: 
 1. Funkce musí být definována v [[Okolí bodu|v libovolném okolí]] větší než 0.
