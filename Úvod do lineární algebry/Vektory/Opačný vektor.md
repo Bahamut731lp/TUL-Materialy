@@ -1,0 +1,1 @@
+# Opačný vektor

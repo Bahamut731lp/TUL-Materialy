@@ -23,16 +23,15 @@ Z obrázku výše jde vidět, že se pomocí čísel <span style="color:red">$\l
 - Spojitost zleva
 - a spojitost zprava
 
-
 Pokud tedy nerovnost funkčních hodnot ($|f(x) - f(c)| < \varepsilon$) platí jenom "na jedné straně", tak je z toho směru spojitá.
 - $\large x\in\left<{x,x+\delta}\right) \implies$ Pro všechna $\large{x}$ **z pravého [[Okolí bodu|okolí]]** je funkce spojitá
 - $\large x\in\left({x-\delta,x}\right> \implies$ Pro všechna $\large{x}$ **z levého [[Okolí bodu|okolí]]** je funkce spojitá
 
 Tohle můžeme vidět i na obrázku u definice. Od té tučné zelené čáry, která nám značí proměnnou $\large{x}$, máme dvě části - jednu "nalevo" a druhou "napravo" - a my právě dokážeme říct, v které z nich je funkce spojitá, a v které ne.
 
-Když se podíváte na ty [[Intervaly|intervaly]] výše o spojitosti z pravého nebo levého okolí, tak jsou polootevřené. 
+Ty dva vzorečky v podstatě říkají, že když si zvolímě nějaké okolí, tak pro každé $x$ (pro každý argument funkce) musí být nějaká funkční hodnota.
 
-To znamená, že námi zkoumaný bod $\large{x}$ **musí** být ve funkci definovaný alespoň z jedné strany. Pokud je funkce spojitá z obou stran, tak říkáme, že je funkce v bodě spojitá.
+Když se podíváte na ty [[Intervaly|intervaly]] výše o spojitosti z pravého nebo levého okolí, tak jsou polootevřené.  To znamená, že námi zkoumaný bod $\large{x}$ **musí** být ve funkci definovaný alespoň z jedné strany. Pokud je funkce spojitá z obou stran, tak říkáme, že je funkce v bodě spojitá.
 
 ## Spojitost a složené funkce
 Spojitost se při skládání funkcí přenáší. 

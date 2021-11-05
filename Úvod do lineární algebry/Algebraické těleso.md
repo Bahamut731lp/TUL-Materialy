@@ -1,12 +1,22 @@
 # Algebraické těleso
 
+>**TL,DR:**
+>-  **Tělesem** nazýváme množinu uzavřenou na dvě binární operace 
+>    - sčítání
+>    - a násobení
+>  - Každá operace **má** svůj **neutrální prvek**
+>     - $a+0=a$
+>     - $a\cdot 1= a$
+>  - Každá operace **je komutativní a asociativní**
+>  - Násobení je **distributivní** vůči sčítání
+>  - Každý prvek tělesa má jednoznačně určený **opačný prvek**.
+
+
 Algebraické těselo $T$ je 
 - **libovolná [[Vlastnosti množiny|množina]]**
 - a dvě binární operace
 
-Množina může být skutečně libovolná. Jedinou podmínkou je, že nesmí být prázdná ($T\not= \emptyset$).
-
-Prvkům tělesa (množiny) se říkají, nečekaně, **prvky tělesa**.
+Množina může být skutečně libovolná. Jedinou podmínkou je, že nesmí být prázdná ($T\not= \emptyset$). Prvkům tělesa (množiny) se říkají, nečekaně, **prvky tělesa**. Jedná se o jakési zobecnění [[Číselné množiny|číselných množin]].
 
 ## Binární operace
 **Binární operací** se myslí proces, který ze dvou vstupů udělá jeden výstup. 
@@ -47,9 +57,6 @@ end
 ```
 
 ## Axiómy tělesa
-
-> **Axiom** (z [řec.](https://cs.wikipedia.org/wiki/%C5%98e%C4%8Dtina "Řečtina") _axióma_, to co se uznává) je tvrzení, které se předem pokládá za platné, a tudíž se nedokazuje. Podobný význam má slovo [postulát](https://cs.wikipedia.org/wiki/Postul%C3%A1t "Postulát").
-
 Ačkoliv si můžeme podle potřeby redefinovat sčítání a násobení, je potřeba zajistit, aby platila určitá pravidla - **axiómy tělesa**
 
 Tyto pravidla totiž zajištují, že operace budou definované pro všechny prvky tělesa[^1] a že se budou chovat podobně, jako sčítání a násobení čísel.
@@ -58,20 +65,20 @@ Těchto pravidel existuje celkem deset:[^2]
 
 1. **Komutativnost sčítání a násobení** - Pro libovolné prvky $a, b$ z tělesa $T$ musí platit, že:
 	1. $a+b = b+a$ 
-	2. $a\times b = b \times a$
+	2. $a\cdot b = b \cdot a$
 2. **Asociativita sčítání a násobení** - Pro libovolné prvky $a, b$ z tělesa $T$ musí platit, že:
 	1. $a+(b+c) = (a+b)+c$
-	2. $a\times (b\times c) =(a\times b) \times c$
+	2. $a\cdot (b\cdot c) =(a\cdot b) \cdot c$
 3. **Existuje nulový prvek** - V tělese existuje prvek, který si označíme jako $0$ , pro který platí, že:
 	1. $a+0=a$
 4. **Existuje opačný prvek** - Pro libovolný prvek $a$ musí existovat opačný prvek $-a$, pro které platí, že:
 	1. $a + (-a) = 0$
 5. **Existuje jednotkový prvek** - Existuje prvek, který si označíme jako $1$, pro který platí, že:
-	1. $a\times 1=1$
+	1. $a\cdot 1=a$
 6. **Existuje inverzní prvek** - Existuje prvek, který si označíme jako $a^{-1}$, pro který platí, že:
-	1. $a\times a^{-1} = 1$
+	1. $a\cdot a^{-1} = 1$
 7. **Distributivnost** - Pro libovolné tři prvky $a, b, c$ musí platit, že:
-	1. $a\times(b+c)=(a\times b)+(a\times c)$
+	1. $a\cdot(b+c)=(a\cdot b)+(a\cdot c)$
 8. **Netrivialita** - Nulový prvek a jednotkový prvek **nesmí** být stejné
 	1. $0\not=1$
 
@@ -79,7 +86,7 @@ Kam se ale podělo odčítání a dělení?
 - Odečítání se dělá přičítáním opačného prvku
 	- $5 - 2 = 5 + (-2)$
 - Dělení se dělá násobením inverzního prvku
-	- $10/5 = 10\times5^{-1}$
+	- $10/5 = 10\cdot 5^{-1}$
 
 [^1]: To znamená, že půjdou provést pro všechna čísla v naší libovolné množině.
 [^2]: Některé axiómy budou spojené dohromady, pokud platí jak pro násobení, tak i sčítání - např. **komutativnost sčítání** a **komutativnost násobení** jsou spojeny pod **komutativnost sčítání a násobení** .

@@ -1,0 +1,1 @@
+# Aritmetický vektor

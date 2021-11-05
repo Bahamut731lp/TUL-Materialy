@@ -1,0 +1,1 @@
+# Složky vektoru
