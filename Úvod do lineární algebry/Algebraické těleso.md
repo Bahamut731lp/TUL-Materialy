@@ -72,11 +72,10 @@ Těchto pravidel existuje celkem deset:[^2]
 3. **Existuje nulový prvek** - V tělese existuje prvek, který si označíme jako $0$ , pro který platí, že:
 	1. $a+0=a$
 4. **Existuje opačný prvek** - Pro libovolný prvek $a$ musí existovat opačný prvek $-a$, pro které platí, že:
-	1. $a + (-a) = 0$
+	1. $a + (-a) = 0$ ($3 + (-3) = 0$)
+	2. $a \cdot (-a) = 1$ ($3 \cdot \frac{1}{3}= 1$)
 5. **Existuje jednotkový prvek** - Existuje prvek, který si označíme jako $1$, pro který platí, že:
 	1. $a\cdot 1=a$
-6. **Existuje inverzní prvek** - Existuje prvek, který si označíme jako $a^{-1}$, pro který platí, že:
-	1. $a\cdot a^{-1} = 1$
 7. **Distributivnost** - Pro libovolné tři prvky $a, b, c$ musí platit, že:
 	1. $a\cdot(b+c)=(a\cdot b)+(a\cdot c)$
 8. **Netrivialita** - Nulový prvek a jednotkový prvek **nesmí** být stejné

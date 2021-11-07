@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Vektory/Vektorové prostory.md",
+            "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Úvod do lineární algebry/Vektory/Vektorové prostory.md",
+            "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Úvod do lineární algebry/Vektory/Vektorové prostory.md",
+                "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "f78da34613cdf622",
   "lastOpenFiles": [
-    "Úvod do lineární algebry/Vektory/Vektorové prostory.md",
+    "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
+    "Matematika 1/Derivace/Úvod do derivací.md",
+    "Matematika 1/Derivace/Diferenciál.md",
+    "Matematika 1/Polynomy/Vietovy vzorce.md",
+    "Matematika 1/Derivace/Podmínky pro existenci derivace.md",
+    "Matematika 1/Derivace/Leibnizův vzorec.md",
+    "Matematika 1/Polynomy/Základní věta algebry.md",
+    "Matematika 1/Funkce/Druhy funkcí/Logaritmus.md",
     "Úvod do lineární algebry/Algebraické těleso.md",
-    "Úvod do lineární algebry/Lineární obal.md",
-    "Úvod do lineární algebry/Vektor.md",
-    "Úvod do lineární algebry/Vektory/Složky vektoru.md",
-    "Úvod do lineární algebry/Vektory/Opačný vektor.md",
-    "Úvod do lineární algebry/Vektory/Nulový vektor.md",
-    "Úvod do lineární algebry/Vektory/Geometrický vektor.md",
-    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md",
-    "Matematika 1/Množiny/Číselné množiny.md"
+    "Úvod do lineární algebry/Vektory/Vektorové prostory.md"
   ]
 }

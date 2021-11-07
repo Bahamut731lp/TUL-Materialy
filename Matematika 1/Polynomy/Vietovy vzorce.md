@@ -1,25 +1,43 @@
 # Vietovy vzorce
-Jedná se o sadu vzorců, pomocí kterých lze najít kořeny polynomů.
+Jedná se o sadu vzorců pro řešení (nejenom) kvadratických rovnic a polynomů.
 
-Každý polynom
-- Jehož stupeň je větší nebo roven 1
-- s koeficinty náležícími do [[Číselné množiny#Reálná čísla|reálných]] nebo [[Číselné množiny#Komplexní čísla|komplexních čísel]] ($P(x)\in\mathbb{R}\cap\mathbb{C}$)
-- a koeficient proměnné s nejvýšším exponentem není nula ($a_0\gt0$)
+>$$\large \begin{align}
+>x_1 + x_2 &= -\frac{b}{a} \\
+\\
+x_1 \cdot x_2 &= \frac{c}{a}
+>\end{align}$$
 
-může mýt nejvýše $n$ komplexních kořenů. Vietovy vzorce poté předepisují $n$ rovnic, které vedou k nalezení každého kořenu.
+## Vietovy vzorce obecně
+Nejčastěji se Vietovy vzorce uplatňují pro rozklad kvadratického polynomu na součit dvou zárovek, ovšem jdou použít i na řešení polynomu $n$-tého stupně.
 
-Je důležité říct, že je nutné mít rovnici v **normovaném tvaru**, tzn. že u členu s nejvyšším exponentem je potřeba mít koeficient 1.
+>- Pro každý polynom $n$-tého stupně, kde je větší nebo rovno 1
+>
+>- Koeficienty $a_n, a_{n-1}, ...$ náleží do reálních či komplexních čísel
+>- Vietovovy vzorce předepisují $n$ rovnic, které vedou k nalezení $n$ kořenů.
+>
+>$$\large p(x) = a_{n}x^{n}+a_{n-1}x^{n-1}+... a_{1}x^{1}+a_0x^0$$
+>$$\large\begin{cases}
+>x_{1}+x_{2}+\dots +x_{n-1}+x_{n}={\tfrac {-a_{n-1}}{a_{n}}}\\
+>(x_1x_2+...+x_1x_n)+(x_2x_3+...+x_2x_n)+...+x_{n-1}x_{n}={\frac {a_{n-2}}{a_{n}}}\\
+>
+>{}\quad \vdots \\
+>x_{1}x_{2}\dots x_{n}=(-1)^{n}{\tfrac {a_{0}}{a_{n}}}
+>\end{cases}$$
 
->Mějte tedy polynom s proměnnou $x^n$ a koeficienty $a_n$
-> $$$$
+### Pro polynom druhého stupně
+Pro polynom $p(x)=ax^{2}+bx+c$
+>$$\large \begin{align}
+>x_1 + x_2 &= -\frac{b}{a} \\
+\\
+x_1 \cdot x_2 &= \frac{c}{a}
+>\end{align}$$
 
-
-
-## Řešení kvadratické rovnice
-> $$
-> \begin{aligned}
-> x^2 + px + q &= 0 \\
-> x_1 + x_2 &= -p \\
-> x_1 \cdot x_2 &= q
-> \end{aligned}
-> $$
+### Pro polynom třetího stupně
+Pro polynom $q(x)=ax^{3}+bx^{2}+cx+d$
+>$$\large \begin{align}
+>x_1 + x_2 + x_3 &= -\frac{b}{a} \\
+\\
+>(x_1x_2 + x_1x_3) + (x_2x_3) &= \frac{c}{a} \\
+\\
+x_1 \cdot x_2 &= \frac{d}{a}
+>\end{align}$$

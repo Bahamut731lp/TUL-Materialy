@@ -46,3 +46,11 @@ $$\large (f(x)-g(x))' = ... = f'(x)-g'(x)$$
 ## Derivování inverzní funkce
 
 >$$\large f(x_0)' = \frac{1}{(f^{-1}(y_0))'}$$
+
+## Derivace logaritmů
+$$\large\begin{eqnarray}
+(c^x)^\prime&=&c^x\ln c;\quad c>0\\\\
+(e^x)^\prime&=&e^x\\\\
+(\log_cx)^\prime&=&\frac{1}{x\cdot \ln c};\quad c>0\wedge c\ne0\\\\
+(\ln x)^\prime&=&\frac{1}{x}
+\end{eqnarray}$$
