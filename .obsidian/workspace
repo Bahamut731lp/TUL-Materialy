@@ -7,25 +7,9 @@
         "id": "f78da34613cdf622",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
-            "mode": "source"
-          }
-        },
-        "group": "1ba3c0ffe3be864a"
-      },
-      {
-        "id": "27359135bc224560",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1ba3c0ffe3be864a"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +84,15 @@
   },
   "active": "f78da34613cdf622",
   "lastOpenFiles": [
+    "Úvod do diskrétní matematiky/Teorie grafů/Graf.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Ohodnocené grafy.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Matice sousednosti.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Speciální grafy.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Vlastnosti grafu.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Incidence.md",
+    "Matematika 1/Posloupnosti/Úvod do posloupností.md",
     "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
     "Matematika 1/Derivace/Úvod do derivací.md",
-    "Matematika 1/Derivace/Diferenciál.md",
-    "Matematika 1/Polynomy/Vietovy vzorce.md",
-    "Matematika 1/Derivace/Podmínky pro existenci derivace.md",
-    "Matematika 1/Derivace/Leibnizův vzorec.md",
-    "Matematika 1/Polynomy/Základní věta algebry.md",
-    "Matematika 1/Funkce/Druhy funkcí/Logaritmus.md",
-    "Úvod do lineární algebry/Algebraické těleso.md",
-    "Úvod do lineární algebry/Vektory/Vektorové prostory.md"
+    "Matematika 1/Derivace/Diferenciál.md"
   ]
 }
