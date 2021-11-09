@@ -1,5 +1,5 @@
 # Matice sousednosti
-Matice sousednosti je taková matice, která popisuje, kolik hran vede z jednoho do druhého vrcholu.
+Matice sousednosti je jedním ze způsobů reprezentace grafu. Je to taková matice, která popisuje, kolik hran vede z jednoho do druhého vrcholu.
 
 Matice sousednosti je čtvercová o velikosti $n\times n$, kde $n$ je počet vrcholů.
 

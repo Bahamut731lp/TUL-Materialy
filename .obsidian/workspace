@@ -4,12 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "f78da34613cdf622",
+        "id": "28480a8f1e4356e8",
         "type": "leaf",
+        "dimension": 50.17006802721088,
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Matematika 1/Limity/Počítání s limitami.md",
+            "mode": "source"
+          }
+        },
+        "group": "aa8f9780b4cb966e"
+      },
+      {
+        "id": "0e530f37d8ff2070",
+        "type": "leaf",
+        "dimension": 49.82993197278912,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Matematika 1/Limity/Počítání s limitami.md",
+            "mode": "preview"
+          }
+        },
+        "group": "aa8f9780b4cb966e"
       }
     ],
     "direction": "vertical"
@@ -65,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematika 1/Limity/Počítání s limitami.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f78da34613cdf622",
+  "active": "28480a8f1e4356e8",
   "lastOpenFiles": [
-    "Úvod do diskrétní matematiky/Teorie grafů/Graf.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Ohodnocené grafy.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Matice sousednosti.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Speciální grafy.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Vlastnosti grafu.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Incidence.md",
-    "Matematika 1/Posloupnosti/Úvod do posloupností.md",
-    "Matematika 1/Derivace/Pravidla pro práci s derivacemi.md",
-    "Matematika 1/Derivace/Úvod do derivací.md",
-    "Matematika 1/Derivace/Diferenciál.md"
+    "Matematika 1/Limity/Počítání s limitami.md",
+    "Úvod do lineární algebry/Gaussova eliminační metoda.md",
+    "Úvod do lineární algebry/Algebraické těleso.md",
+    "Úvod do lineární algebry/Matice/Matice.md",
+    "Úvod do lineární algebry/Zobrazení.md",
+    "Úvod do lineární algebry/Vektor.md",
+    "Úvod do lineární algebry/Lineární obal.md",
+    "Úvod do lineární algebry/Lineární závislost.md",
+    "Úvod do lineární algebry/Vektory/Geometrický vektor.md",
+    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md"
   ]
 }

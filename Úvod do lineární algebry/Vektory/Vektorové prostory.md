@@ -3,7 +3,7 @@ Vektorový (nebo též lineární) prostor nad [[Algebraické těleso|tělesem]]
 
 
 ---
-Vektorový prostor je množina vektorů, pro kterou jsou určena nějaká pravidla. Aby mohl vektorový prostor existovat, musí být dána
+Vektorový prostor je množina [[Vektor|vektorů]], pro kterou jsou určena nějaká pravidla. Aby mohl vektorový prostor existovat, musí být dána
 - Neprázdná [[Vlastnosti množiny|množina]] $\large V$, jejíž prvky nazýváme **vektory**
 - [[Algebraické těleso]] $\large T$
 - [[Zobrazení]] $\large \oplus :\ V\times V\to V$ (**sčítání vektorů**)
@@ -11,7 +11,7 @@ Vektorový prostor je množina vektorů, pro kterou jsou určena nějaká pravid
 
 Vektorový prostor tedy existuje, pokud máme neprázdnou množinu [[Uzavřenost množiny na operaci|uzavřenou na operace]] **sčítání** a **násobení** vektorů. 
 
-Pravidla pro existenci a práci s vektorovými prostory se nazývají [[#Axiómy vektorového prostoru]], a jsou formálně velmi podobné [[Algebraické těleso#Axiómy tělesa|axiómům tělesa]]. Podstatný rozdíl je ale v tom, že operace v tělese a operace ve vektorovém prostoru **nejsou jedno a to samé**.
+Pravidla pro existenci a práci s vektorovými prostory se nazývají [[#Axiómy vektorového prostoru]], a jsou formálně velmi podobné [[Algebraické těleso#Axiómy tělesa|axiómům tělesa]]. Rozdíl je ale v tom, že operace v tělese a operace ve vektorovém prostoru **nejsou jedno a to samé**, jedná se totiž o různá zobrazení
 
 
 ## Axiómy vektorového prostoru

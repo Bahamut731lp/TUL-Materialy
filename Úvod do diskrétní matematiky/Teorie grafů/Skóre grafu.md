@@ -1,0 +1,1 @@
+# Skóre grafu
