@@ -6,11 +6,11 @@
       {
         "id": "28480a8f1e4356e8",
         "type": "leaf",
-        "dimension": 50.17006802721088,
+        "dimension": 52.89115646258503,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Limity/Počítání s limitami.md",
+            "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "0e530f37d8ff2070",
         "type": "leaf",
-        "dimension": 49.82993197278912,
+        "dimension": 47.10884353741497,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Matematika 1/Limity/Počítání s limitami.md",
+            "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Limity/Počítání s limitami.md",
+                "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "28480a8f1e4356e8",
   "lastOpenFiles": [
+    "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
+    "Algoritmizace a programování/Programovací paradigma/Objektově orientované programování.md",
+    "Algoritmizace a programování/Programovací paradigma/Imperativní programování.md",
+    "Algoritmizace a programování/Programovací paradigma/Funkcionální programování.md",
+    "Algoritmizace a programování/Datové typy.md",
+    "Algoritmizace a programování/Alokování paměti.md",
     "Matematika 1/Limity/Počítání s limitami.md",
-    "Úvod do lineární algebry/Gaussova eliminační metoda.md",
-    "Úvod do lineární algebry/Algebraické těleso.md",
-    "Úvod do lineární algebry/Matice/Matice.md",
-    "Úvod do lineární algebry/Zobrazení.md",
-    "Úvod do lineární algebry/Vektor.md",
-    "Úvod do lineární algebry/Lineární obal.md",
-    "Úvod do lineární algebry/Lineární závislost.md",
-    "Úvod do lineární algebry/Vektory/Geometrický vektor.md",
-    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md"
+    "Matematika 1/Přímky/Sečna.md",
+    "Matematika 1/Přímky/Tečna.md",
+    "Matematika 1/Přímky/Směrnicový tvar přímky.md"
   ]
 }
