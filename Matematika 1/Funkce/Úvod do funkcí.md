@@ -19,3 +19,17 @@ Tenhle text je z pohledu matiky trochu nepřesnej, hlavně co se terminologie t�
 |Parametr funkce|Jedná se o vstupy, se kterými funkce pracuje. Nejčastěji písmenko $x$|
 |Argument funkce|Konkrétní parametr, s kterým funkci "voláme"|
 |Funkční hodnota|Hodnota, kterou nám funkce vrátí po zavolání|
+
+## Druhy funkcí
+Jednotlivé druhy funkcí jsou rozepsané ve samostatných souborech, zde je tedy rychlý přehled:
+
+|Funkce|Příklad|
+|:--|:--|
+|[[Lineární funkce]]|$f(x)=x$|
+|[[Lomenné funkce]]|$f(x)=\frac{1}{x}$|
+|[[Kvadratická funkce]]|$f(x)=x^2$|
+|[[Exponenciální funkce]]|$f(x)=x^n$|
+|[[Logaritmus]]|$f(x)=\log{x}$|
+|[[Absolutní funkce]]|$f(x)=abs({x})$|
+|[[Goniometrické funkce]]|$f(x)=\sin{x}$|
+|[[Cyklometrické funkce]]|$f(x)=\arcsin{x}$|

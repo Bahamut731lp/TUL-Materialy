@@ -4,30 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "28480a8f1e4356e8",
+        "id": "0e530f37d8ff2070",
         "type": "leaf",
-        "dimension": 52.89115646258503,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
+            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
             "mode": "source"
           }
         },
-        "group": "aa8f9780b4cb966e"
+        "group": "17b479bb21e750d6"
       },
       {
-        "id": "0e530f37d8ff2070",
+        "id": "d5df2c774a7f5b2c",
         "type": "leaf",
-        "dimension": 47.10884353741497,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
+            "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
             "mode": "preview"
           }
         },
-        "group": "aa8f9780b4cb966e"
+        "group": "17b479bb21e750d6"
       }
     ],
     "direction": "vertical"
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 309
   },
   "right": {
     "id": "ca3aa6f19fec5c52",
@@ -83,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
+                "file": "Úvod do lineární algebry/Gaussova eliminační metoda.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "28480a8f1e4356e8",
+  "active": "0e530f37d8ff2070",
   "lastOpenFiles": [
-    "Algoritmizace a programování/Programovací paradigma/Deklarativní programování.md",
-    "Algoritmizace a programování/Programovací paradigma/Objektově orientované programování.md",
-    "Algoritmizace a programování/Programovací paradigma/Imperativní programování.md",
-    "Algoritmizace a programování/Programovací paradigma/Funkcionální programování.md",
-    "Algoritmizace a programování/Datové typy.md",
-    "Algoritmizace a programování/Alokování paměti.md",
-    "Matematika 1/Limity/Počítání s limitami.md",
-    "Matematika 1/Přímky/Sečna.md",
-    "Matematika 1/Přímky/Tečna.md",
-    "Matematika 1/Přímky/Směrnicový tvar přímky.md"
+    "Úvod do lineární algebry/Gaussova eliminační metoda.md",
+    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md",
+    "Úvod do lineární algebry/Lineární zobrazení/Defekt zobrazení.md",
+    "Úvod do lineární algebry/Lineární zobrazení/Jádro zobrazení.md",
+    "Úvod do lineární algebry/Lineární zobrazení/Lineární zobrazení.md",
+    "Úvod do lineární algebry/Lineární zobrazení/Frobeniova věta.md",
+    "Úvod do lineární algebry/Matice/Rozšířená matice.md",
+    "Úvod do lineární algebry/Matice/Hodnost matice.md",
+    "Úvod do lineární algebry/Matice/Matice.md",
+    "Úvod do lineární algebry/Vektory/Vektorové prostory.md"
   ]
 }

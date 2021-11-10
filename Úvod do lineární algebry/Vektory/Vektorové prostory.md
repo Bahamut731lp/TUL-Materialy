@@ -13,7 +13,7 @@ Vektorový prostor tedy existuje, pokud máme neprázdnou množinu [[Uzavřenost
 
 Pravidla pro existenci a práci s vektorovými prostory se nazývají [[#Axiómy vektorového prostoru]], a jsou formálně velmi podobné [[Algebraické těleso#Axiómy tělesa|axiómům tělesa]]. Rozdíl je ale v tom, že operace v tělese a operace ve vektorovém prostoru **nejsou jedno a to samé**, jedná se totiž o různá zobrazení
 
-
+---
 ## Axiómy vektorového prostoru
 1. **Komutativnost sčítání vektorů** - Pro libovolné vektory $a, b$ z vektorového prostoru $V$ musí platit, že:
 	1. $a \oplus b = b \oplus a$
@@ -29,3 +29,4 @@ Pravidla pro existenci a práci s vektorovými prostory se nazývají [[#Axiómy
 	1. $(a \oplus b )\odot c = (a \odot c) \oplus (b \odot c)$
 7. **Netrivialita** - Nulový prvek a jednotkový prvek **nesmí** být stejné
 	1. $0\not=1$
+

@@ -1,6 +1,7 @@
 # Lineární kombinace
 Lineární kombinace vektoru je takový [[vektor]], který "složen" z dalších vektorů.
 
+---
 Jedno ze zásadních pravidel [[Vektorové prostory|vektorového prostoru]] je, že 
 - při sčítání ($\oplus$) 
 - a při násobení ($\odot$) 
@@ -17,4 +18,6 @@ Lineární kombinací se nazývá právě tenhle výsledek, protože jsme použi
 >- $a_iv_i$ jsou vektory, ze které se lineární kombinace skládá.
 
 ## Trivialita lineární kombinace
-Lineární kombinaci říkáme **triviální**, pokud jsou všechny koeficienty vektorl rovny nule.
+Lineární kombinaci říkáme **triviální**, pokud jsou všechny koeficienty vektoru rovny nule. 
+
+Pokud je nějaký koeficient nenulový, nazýváme lineární kombinaci **netriviální**.
