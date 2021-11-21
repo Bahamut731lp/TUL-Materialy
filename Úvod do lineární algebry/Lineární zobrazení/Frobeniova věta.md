@@ -57,5 +57,5 @@ a dán vektor $b$ z prostoru obrazů (prostor $V$), tak platí, že
 prvek $b$, který náleží do množiny obrazů ($b \in N$), poté můžeme hledat takové vzory, které se zobrazí právě do prvku $b$.
 
 ---
-## Propojení matic a lineárního zobrazení
+## Jak spolu tyto definice souvisí
 *Doplnit později*
