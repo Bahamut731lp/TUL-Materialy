@@ -16,7 +16,7 @@
 |Limita|Funkce $f$|Funkce $g$|Funkce $h$|
 |:--:|:--:|:--:|:--:|
 |$\lim_{x \to \infty}$|$\Large\frac{\pi}{4}$|1|$\infty$|
-|$\lim_{x \to -\infty}$|$-\Large\frac{\pi}{4}$|-1|0|
+|$\lim_{x \to -\infty}$|$\Large\frac{\pi}{4}$|-1|0|
 |$\lim_{x \to 1^+}$|$\Large\frac{\pi}{2}$|$\infty$|1|
 |$\lim_{x \to 1^-}$|$-\Large\frac{\pi}{2}$|$-\infty \cdot i$|1|
 

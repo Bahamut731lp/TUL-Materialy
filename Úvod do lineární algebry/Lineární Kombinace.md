@@ -13,7 +13,7 @@ Lineární kombinací se nazývá právě tenhle výsledek, protože jsme použi
 - a vytvořili **nový vektor**. 
 - *Dalo by se i říct, že jsme "zkombinovali" dva prvky k vytvoření dalšího prvku.*
 
->$$\large u=a_1v_1+a_2v_2+...+a_n+v_n = \sum^{n}_{i=1}a_iv_i$$
+>$$\large u=a_1v_1+a_2v_2+...+a_nv_n = \sum^{n}_{i=1}a_iv_i$$
 >- $u$ je **lineární kombinací**
 >- $a_iv_i$ jsou vektory, ze které se lineární kombinace skládá.
 
