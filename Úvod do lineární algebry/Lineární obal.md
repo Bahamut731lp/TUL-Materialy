@@ -1,5 +1,5 @@
 # Lineární obal
-Lineární obal (množiny [[Vektor|vektorů]] z [[Vektorové prostory|vektorového prostoru]]) je [[Vlastnosti množiny|množina]] všech možných [[Lineární kombinace|lineárních kombinací]] [[Vektor|vektorů]].
+Lineární obal (množiny [[Vektor|vektorů]] z [[Vektorové prostory|vektorového prostoru]]) je [[Množiny|množina]] všech možných [[Lineární kombinace|lineárních kombinací]] [[Vektor|vektorů]].
 
 - Značí se jako funkce $span(M)$, kde $M$ je množina vektorů, ze kterých tvoříme [[Lineární kombinace|lineární kombinace]].
 

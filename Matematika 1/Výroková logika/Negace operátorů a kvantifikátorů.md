@@ -1,0 +1,1 @@
+# Negace operátorů a kvantifikátorů

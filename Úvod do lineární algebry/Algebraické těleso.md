@@ -13,7 +13,7 @@
 
 
 Algebraické těselo $T$ je 
-- **libovolná [[Vlastnosti množiny|množina]]**
+- **libovolná [[Množiny|množina]]**
 - a dvě binární operace
 
 Množina může být skutečně libovolná. Jedinou podmínkou je, že nesmí být prázdná ($T\not= \emptyset$). Prvkům tělesa (množiny) se říkají, nečekaně, **prvky tělesa**. Jedná se o jakési zobecnění [[Číselné množiny|číselných množin]].

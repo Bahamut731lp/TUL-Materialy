@@ -1,2 +1,0 @@
-# Limita funkce
-

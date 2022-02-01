@@ -1,5 +1,5 @@
 # Okolí bodu
-Okolí bodu, nejčastěji značeno písmenem epsilon ($\epsilon$), je vymezená oblast kolem nějakého bodu, ve kterém zkoumáme chování [[Úvod do posloupností|posloupnosti]] nebo [[Úvod do funkcí|funkce]].
+Okolí bodu, nejčastěji značeno písmenem epsilon ($\epsilon$), je vymezená oblast kolem nějakého bodu, ve kterém zkoumáme chování [[Posloupnosti|posloupnosti]] nebo [[Úvod do funkcí|funkce]].
 
 > **TL,DR:**
 > - Okolí bodu $U(a, \epsilon)$ je interval všech bodů $\left(r-\epsilon, r+\epsilon\right)$

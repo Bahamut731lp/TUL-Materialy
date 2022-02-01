@@ -1,5 +1,5 @@
 # Graf
-Graf je matematická struktura, která je definována dvěma konečnými [[Vlastnosti množiny|množinami]]:
+Graf je matematická struktura, která je definována dvěma konečnými [[Množiny|množinami]]:
 - konečnou množinou **vrcholů** *(uzlů)*
 - a množinou dvojic vrcholů - tzv. **hran**
 

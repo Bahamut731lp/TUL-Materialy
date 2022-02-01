@@ -1,47 +1,42 @@
-# Spojistost funkce
-Funkce je spojitá, pokud se její hodnoty mění plynule.
+# Spojitost funkce
+Spojitost funkce říká, jestli je někde graf funkce "přerušený" nebo ne. Funkce je spojitá v nějakém bodě, pokud je spojitá i v jeho libovolném okolí větší než 0.
 
->**TL,DR:**
+>**Definice spojitosti:**
+>Funkce je spojitá v bodě $c$, jestliže k $\varepsilon$-okolí bodu $f(c)$ existuje $\delta$-okolí bodu $c$ takové, že všechny $x$ z $\delta$-okolí mají funkční hodnotu v $\varepsilon$-okolí.
+>
 
+Spojitost lze také zadefinovat pomocí [[Limita funkce|limity]].
+>**Definice spojitosti:**
+>Funkce je spojitá v bodě $c$, pokud má b vodě $c$ limitu rovnou funkční hodnotě v bodě $c$.
+>$$\Large\lim_{x\to{c}}f(x) = f(c)$$
 
-## Cauchyho definice
-Přesnější definicí je takzvaná **Cauchyho definice**, která říká:
+Pokud jsou dvě funkce spojité v nějakém bodě, tak pak budou spojité i jejich "aritmetické operace".
 
->O funkci $f$ řekneme, že je spojitá **v bodě c**, pokud pro kladné číslo $\large \varepsilon$ existuje kladné číslo $\large\delta$ tak, že platí vztahy:
->$$\Large\begin{aligned}
->|f(x) - f(c)| &< \varepsilon \\
->\forall x &\in (c-\delta, c+\delta)
-\end{aligned}$$
->![[Spojitost funkce - Cauchyho definice.png]]
+>**Spojitost aritmetiky funkcí:**
+>Mějme dvě spojité funkce v bodě $c$, poté jsou také spojité následující operace:
+>- Absolutní hodnoty
+>- Součet funkcí
+>- Rozdíl funkcí
+>- Součin funkcí
+>- Podíl funkcí, pokud je funkční hodnota v jmenovateli různá od nuly.
 
-Pojďme tu hnusnou definici rozebrat - funkce je spojitá v bodě c
-- pokud po zvolení nějakého kladného čísla (<span style="color:red">číslo $\large \varepsilon$</span>)
-- pro něj najdeme odpovídající číslo (<span style="color:lime">číslo $\large \delta$</span>)
-- pomocí vztahů $|f(x)-f(c) < \varepsilon|$ a $|x-c|<\delta$.
+>**Spojitost složené funkce:**
+>Mějme dvě funkce, kde první je spojitá v bodě $c$, a druhá je spojitá ve funkční hodnotě první funkce v bodě $c$, poté je jejich složená funkce také spojitá v bodě $c$.
+>$$\Large\begin{cases}
+>c \in \mathbb{R} &\large\text{Zkoumaný bod.}\\
+>g(c) & \large\text{Vnitřní funkce spojitá v bodě c.} \\
+>h(g(c)) &\large\text{Vnější funkce spojitá ve funkční hodnotě vnitřní funkce.}\\
+>h(g) &\large\text{Složená funkce je spojitá.}
+>\end{cases}$$
 
-Z obrázku výše jde vidět, že se pomocí čísel <span style="color:red">$\large \varepsilon$</span> a <span style="color:lime">$\large \delta$</span> vytváří nějaká [[Okolí bodu|okolí bodu]]. To je proto, abychom mohli zkoumat
-- Spojitost zleva
-- a spojitost zprava
+## Jednostranná spojitost
+Spojitost lze zkoumat buďto 
+- **zleva**, kde $\delta$-okolí je pouze od bodu doleva.
+- **zprava**, kde $\delta$-okolí je pouze od bodu doprava.
+- **zleva i zprava**, kde $\delta$-okolí zkoumám od bodu do obou směrů.
 
-Pokud tedy nerovnost funkčních hodnot ($|f(x) - f(c)| < \varepsilon$) platí jenom "na jedné straně", tak je z toho směru spojitá.
-- $\large x\in\left<{x,x+\delta}\right) \implies$ Pro všechna $\large{x}$ **z pravého [[Okolí bodu|okolí]]** je funkce spojitá
-- $\large x\in\left({x-\delta,x}\right> \implies$ Pro všechna $\large{x}$ **z levého [[Okolí bodu|okolí]]** je funkce spojitá
+## Spojitost inverzní funkce
+Pokud je výchozí funkce spojitá, a lze k ní vytvořit inverzi (to znamená, že je [[Prostost funkce|prostá]] $\iff$ [[Monotónnost funkce|ryze monotónní]]), tak bude spojitá i její inverze. Dává smysl, kde by se v ní, přece jenom, najednou vzaly díry?
 
-Tohle můžeme vidět i na obrázku u definice. Od té tučné zelené čáry, která nám značí proměnnou $\large{x}$, máme dvě části - jednu "nalevo" a druhou "napravo" - a my právě dokážeme říct, v které z nich je funkce spojitá, a v které ne.
-
-Ty dva vzorečky v podstatě říkají, že když si zvolímě nějaké okolí, tak pro každé $x$ (pro každý argument funkce) musí být nějaká funkční hodnota.
-
-Když se podíváte na ty [[Intervaly|intervaly]] výše o spojitosti z pravého nebo levého okolí, tak jsou polootevřené.  To znamená, že námi zkoumaný bod $\large{x}$ **musí** být ve funkci definovaný alespoň z jedné strany. Pokud je funkce spojitá z obou stran, tak říkáme, že je funkce v bodě spojitá.
-
-## Spojitost a složené funkce
-Spojitost se při skládání funkcí přenáší. 
-
-Pokud bychom prováděli aritmetické operace s funkcemi $\large{f}$ a $\large{g}$, které jsou obě spojité v nějakém vybraném bodě (např. $\large{c}$), tak poté jejich
-- Absolutní hodnoty (${|f|, |g|}$)
-- Součet ($f+g$)
-- Rozdíl ($f-g$)
-- Součin ($f\cdot g$)
-- a podíl, když funkce v jmenovateli není rovna nule ($\frac{f}{g}, g(c)\not= 0$)
-- **budou také spojité ve vybraném bodě**
-
-Obdobně to platí pro složené funkce - $f(g)$ bude spojitá, pokud jsou obě funkce ve vybraném bodě spojité
+>**Spojitost inverzní funkce**:
+>Mějme funkci $f$, která je [[Monotónnost funkce|ryze monotónní]] a spojitá na vybraném intervalu. Poté bude inverzní funkce také spojitá na vybraném intervalu.

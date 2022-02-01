@@ -3,6 +3,6 @@ Jedná se o vlastnost, která nejčastěji určuje, jestli jsou nějaké prvky o
 
 Příkladem použití této vlastnosti může být
 - [[Prostost funkce]]
-- [[Vlastnosti množiny#Prostost množiny|Prostost množiny]]
+- [[Množiny#Prostost množiny|Prostost množiny]]
 - [[Prostost posloupnosti]]
 - [[Zobrazení#Druhy zobrazení|Prosté zobrazení]]
