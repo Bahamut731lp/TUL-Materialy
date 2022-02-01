@@ -55,13 +55,13 @@ Imperativní, někdy též známo jako **procedurální** programovaní popisuje
 
 Program používá sadu proměnných, na kterých provádí výpočty a podle jejíchž hodnot rozhoduje o dalším běhu programu. Také se hojně využívá **procedur** - bloků kódu, které můžeme zavolat jako celek.
 
-> Často se zaměnují pojmy **procedura, funkce a metoda**. Jaký je mezi nimi rozdíl?
-> 
->|Pojem|Čeho je součástí|Vrací hodnotu?|
->|:--:|:--:|:---:|
->|Procedura|Programu|<b style="color:red">Ne</b>|
->|Funkce|Programu|<b style="color:lime">Ano</b>|
->|Metoda|Objektu|<b style="color:gold">Nezáleží</b>|
+Často se zaměnují pojmy **procedura, funkce a metoda**. Jaký je mezi nimi rozdíl?
+
+|Pojem|Čeho je součástí|Vrací hodnotu?|
+|:--:|:--:|:---:|
+|Procedura|Programu|<b style="color:red">Ne</b>|
+|Funkce|Programu|<b style="color:lime">Ano</b>|
+|Metoda|Objektu|<b style="color:gold">Nezáleží</b>|
 
 #### Deklarativní
 Imperativní programování popisovalo postup, pomocí kterého dosáhnout jistého výsledku. Deklarativní programování na to jde z opačného směru.

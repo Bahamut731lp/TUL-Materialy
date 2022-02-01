@@ -3,6 +3,14 @@
 
 Níže jsou tyto vlastnosti vypsané a jakým způsobem mění název grafu. Podotýkám, že tyto názvy, lze kombinovat... takže můžeme klidně skončit s orientovaným multipseudografem <sup>fun times eh?</sup>. 
 
+|Vlastnost|Název grafu|
+|-:|:--|
+|Jsou hrany v **uspořádané** dvojici?|Orientovaný|
+|**Má** graf **více** stejně orientovaných hran?|Multigraf|
+|**Nemá** graf **více** stejně orientovaných hran?|Prostý|
+|Mohou se v grafu vytvářet smyčky?|Pseudograf|
+|Existuje pro každé jeho dva vrcholy [[Sled]]?|Souvislý|
+
 ## Orientovanost grafu
 - Pokud jsou hrany **neuspořádané** dvojice vrcholů
 	- Mezi dvojicí je vztah "obousměrný"
@@ -23,3 +31,7 @@ Níže jsou tyto vlastnosti vypsané a jakým způsobem mění název grafu. Pod
 - Pokud umožníme vytvářet hrany mezi 1 vrcholem ($\large[V_i, V_i]$)
 	- vytváříme smyčku ve vrcholu
 	- takový graf nazýváme **pseudograf**
+
+## Souvislost grafu
+- Pokud pro každé dva vrcholy grafu existuje [[Sled|sled]]
+	- takový graf nazýváme **souvislý**

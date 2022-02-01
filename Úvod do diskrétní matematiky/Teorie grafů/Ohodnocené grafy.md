@@ -1,5 +1,5 @@
 # Ohodnocené grafy
-Pro účely dalších výpočtů se mohou některé grafy **ohodnocovat**. Hodnotit můžeme buďto
+Pro účely dalších výpočtů se mohou některé grafy **ohodnocovat**. Ohodnocení grafu znamená, že se nějaké jeho části přiřadí číslo. Hodnotit můžeme buďto
 - Hrany, kde každé hraně je přiřazeno nějaké číslo
 - nebo vrcholy, kde každému vrcholu je přiřazeno nějaké číslo.
 
