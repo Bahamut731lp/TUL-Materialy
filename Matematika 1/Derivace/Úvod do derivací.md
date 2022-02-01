@@ -17,7 +17,7 @@ Pokud máme nějakou křivku, na které si zvolíme bod, tak derivace není nic 
 
 K zjištění předpisu tečny (modré čáry) potřebujeme nějak odhadnout úhel $\alpha$, nebo nějak jinak vyjádřit její naklonění či **směr**. 
 
-Vzhledem k tomu, že to je lineární funkce - neboli nějaká přímka, tak její směr můžeme vyčíst ze [[Směrnicový tvar přímky|směrnicového tvaru přímky]] - od toho se tak taky jmenuje, ne? Na výpočet [[Směrnicový tvar přímky#Směrnice přímky|směrnice přímky]] ale potřebujeme pracovat s [[Matematika 1/Funkce/Druhy funkcí/Goniometrické funkce|goniometrickými funkcemi]], to znamená, že potřebujeme trojúhelník. 
+Vzhledem k tomu, že to je lineární funkce - neboli nějaká přímka, tak její směr můžeme vyčíst ze [[Směrnicový tvar přímky|směrnicového tvaru přímky]] - od toho se tak taky jmenuje, ne? Na výpočet [[Směrnicový tvar přímky#Směrnice přímky|směrnice přímky]] ale potřebujeme pracovat s [[Goniometrické funkce|goniometrickými funkcemi]], to znamená, že potřebujeme trojúhelník. 
 
 Musíme mít na přímce tedy alespoň 2 body, abychom vytvořili pravoúhlý trojúhelník a mohli používat goniometrické funkce - tedy místo tečny musíme počítat se sečnou.
 

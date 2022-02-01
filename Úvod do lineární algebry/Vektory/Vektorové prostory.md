@@ -4,7 +4,7 @@ Vektorový (nebo též lineární) prostor nad [[Algebraické těleso|tělesem]]
 
 ---
 Vektorový prostor je množina [[Vektor|vektorů]], pro kterou jsou určena nějaká pravidla. Aby mohl vektorový prostor existovat, musí být dána
-- Neprázdná [[Vlastnosti množiny|množina]] $\large V$, jejíž prvky nazýváme **vektory**
+- Neprázdná [[Množiny|množina]] $\large V$, jejíž prvky nazýváme **vektory**
 - [[Algebraické těleso]] $\large T$
 - [[Zobrazení]] $\large \oplus :\ V\times V\to V$ (**sčítání vektorů**)
 - [[Zobrazení]] $\large \odot :\ T\times V\to V$ (**Násobení vektorů** prvkem z tělesa $\large T$)

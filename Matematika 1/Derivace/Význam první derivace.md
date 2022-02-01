@@ -1,0 +1,1 @@
+# Význam první derivace

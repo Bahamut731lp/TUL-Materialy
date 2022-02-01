@@ -1,5 +1,5 @@
 # Sumace
-Sumace je **sčítání [[Vlastnosti množiny|množiny]] čísel**.  Výsledku se říká **suma**.
+Sumace je **sčítání [[Množiny|množiny]] čísel**.  Výsledku se říká **suma**.
 
 > TL,DR: 
 > - Sumace je opakované sčítání argumentu.

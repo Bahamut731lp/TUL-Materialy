@@ -1,10 +1,9 @@
 # Zobrazení
-> **Zobrazení** (v angličtině *map* či *mapping*) je v [matematice](https://cs.wikipedia.org/wiki/Matematika "Matematika") předpis, kterým se prvkům určité [množiny](https://cs.wikipedia.org/wiki/Mno%C5%BEina "Množina") _X_ přiřazuje **nejvýše jeden** prvek množiny _Y_. Přesněji mluvíme o _zobrazení z množiny X do množiny Y_.
-![[Pasted image 20211011203657.png]]
+Zobrazení je druhem [[Binární relace|binární relace]], která jednomu prvku (vzoru) přiřazuje **nejvýše jeden** prvek (obraz).
 
-Zobrazení nám tedy říká, jakým způsobem máme přiřadit věci z jedné skupiny k věcem z druhé skupiny (viz obrázek).
+>Zobrazení nám tedy říká, jakým způsobem máme přiřadit věci z jedné skupiny k věcem z druhé skupiny.
+> ![[Pasted image 20211011203657.png]]
 
-Můžeme říct, že zobrazení vytváří vztah **(relaci)** mezi dvěma skupinami věcí (*binární* relace - vztah *dvou* věcí).
 
 Důležitou vlastností je, že můžeme přiřadit **nejvýše jeden** prvek. Nemůžeme se nám tedy stát, že by prvek z první skupiny "ukazoval" na více prvků ze skupiny druhé. Jak bychom pak věděli, na který máme koukat???
 
@@ -13,18 +12,6 @@ flowchart TB
 	A[Obraz] -- tenhle? --> B[Vzor]
  	A -- nebo tenhle? --> C[Vzor]
 ```
-
-## Pojmy
-| Pojem | Význam  |
-| :-------: | :------ |
-| Množina | Soubor prvků se stejnou vlastností |
-| Podmnožina | Specifičtější výběr z množiny |
-| Výchozí množina | Množina, jejíž prvky přiřazujeme|
-| Cílová množina | Množina, k jejíž prvkům přiřazujeme|
-| Vzor | Prvek z výchozí množiny |
-| Obraz | Prvek cílové množiny |
-| Definiční obor | Množina vzorů (Výchozí množina)|
-| Obor hodnot | Množina obrazů (Cílová množina)|
 
 ## Druhy zobrazení
 Podle toho, jakým způsobem jsou prvky výchozí množiny zobrazeny do cílové množiny se zobrazení dělí na:

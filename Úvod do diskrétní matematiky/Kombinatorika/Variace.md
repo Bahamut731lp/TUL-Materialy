@@ -1,5 +1,5 @@
 # Variace
-Variace je libovolná uspořádaná $k$-tice prvků z $n$-prvkové [[Vlastnosti množiny|množiny]].
+Variace je libovolná uspořádaná $k$-tice prvků z $n$-prvkové [[Množiny|množiny]].
 
 > **TL,DR**
 > - Bez opakování: $\large V(k, n) = \frac{n!}{(n-k)!}$

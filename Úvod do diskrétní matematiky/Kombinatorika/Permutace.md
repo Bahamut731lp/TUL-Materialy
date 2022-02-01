@@ -1,5 +1,5 @@
 # Permutace
-Permutace je libovolná uspořádaná $n$-tice prvků z [[Vlastnosti množiny|množiny]] $N$.
+Permutace je libovolná uspořádaná $n$-tice prvků z [[Množiny|množiny]] $N$.
 
 > **TL,DR**
 > - Bez opakování: $\large P(n) = n!$

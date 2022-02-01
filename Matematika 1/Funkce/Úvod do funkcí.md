@@ -30,6 +30,9 @@ Jednotlivé druhy funkcí jsou rozepsané ve samostatných souborech, zde je ted
 |[[Kvadratická funkce]]|$f(x)=x^2$|
 |[[Exponenciální funkce]]|$f(x)=x^n$|
 |[[Logaritmus]]|$f(x)=\log{x}$|
-|[[Absolutní funkce]]|$f(x)=abs({x})$|
+|[[Absolutní hodnota]]|$f(x)=abs({x})$|
 |[[Goniometrické funkce]]|$f(x)=\sin{x}$|
 |[[Cyklometrické funkce]]|$f(x)=\arcsin{x}$|
+
+## Související
+[[Funkce jedné proměnné]]

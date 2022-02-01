@@ -2,7 +2,7 @@
 Diferencovatelná funkce je taková, která má v určitém bodě [[Diferenciál|diferenciál]].
 
 > **TL,DR**:
-> - Funkce diferencovatelná, poud se dá v okolí každého bodu aproximovat lineární funkcí
+> - Funkce diferencovatelná, pokud se dá v okolí každého bodu aproximovat lineární funkcí
 > - Diferencovatelnost lze definovat na intervalu, nebo na celém definičním oboru.
 
 Diferencovatelnost je vlastností, která říká, že se funkce dá v nějakém okolí aproximovat funkcí, která odpovídá její [[Tečna|tečně]] (nebo rovině, takže tečně$^2$).
