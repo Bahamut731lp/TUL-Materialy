@@ -20,6 +20,12 @@ $$\large (f(x)-g(x))' = ... = f'(x)-g'(x)$$
 
 ## Derivace součinu
 
+## Derivace inverzní funkce
+$$\large
+\begin{aligned}
+	y &= f(x) \\
+	f'(x) &= \frac{1}{(f^{-1})'(y)}
+\end{aligned}$$
 
 
 ## Standardní funkce

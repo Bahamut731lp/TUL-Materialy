@@ -2,8 +2,11 @@
 Spojitost funkce říká, jestli je někde graf funkce "přerušený" nebo ne. Funkce je spojitá v nějakém bodě, pokud je spojitá i v jeho libovolném okolí větší než 0.
 
 >**Definice spojitosti:**
->Funkce je spojitá v bodě $c$, jestliže k $\varepsilon$-okolí bodu $f(c)$ existuje $\delta$-okolí bodu $c$ takové, že všechny $x$ z $\delta$-okolí mají funkční hodnotu v $\varepsilon$-okolí.
->
+>Funkce je spojitá v bodě $c$, jestliže pro $\varepsilon$-okolí bodu $f(c)$ existuje takové $\delta$-okolí bodu $c$, že všechny $x$ z $\delta$-okolí mají funkční hodnotu v $\varepsilon$-okolí.
+>$$\Large\begin{aligned}
+	>|f(x)-f(c)| &< \varepsilon \\
+	>|x-c| &< \delta \\
+\end{aligned}$$
 
 Spojitost lze také zadefinovat pomocí [[Limita funkce|limity]].
 >**Definice spojitosti:**
