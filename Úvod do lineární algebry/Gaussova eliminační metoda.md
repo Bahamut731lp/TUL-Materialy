@@ -1,11 +1,8 @@
 # Gaussova eliminační metoda
+Gaussova eliminační metoda je algoritmem pro převedení matice do [[Matice#Horní stupňovitý tvar|horního stupňovitého tvaru]].
 
 ## Gaussovské operace
+Gaussovské operace jsou takové operace s množinou [[Vektor|vektorů]], které nemění jejich [[Lineární obal|lineární obal]].
 
-## Proč funguje?
-Gaussova eliminační metoda funguje díky faktu, že je založena na [[#Gaussovské operace|gaussovských operacích]] a faktu, že tyto operace **nemění** [[Lineární obal]] vektorů. Když se nad tím zamyslíme, co vlastně můžeme dělat? Můžeme vektory 
-- sčítat
-- násobit 
-- a sčítat nenulové násobky
-
-Všechny tyhle tři operace slouží k vytváření [[Lineární kombinace|lineárních kombinací vektorů]], akorát na to jdeme z druhého konce - tj. že se místo vytváření lineárních kombinací vektorů snažíme těchto kombinací zbavit a najít jenom ty vektory, které jsou [[Lineární závislost|lineárně nezávislé]].
+## Gaussova-Jordanova eliminační metoda
+Speciální verzí, které se někdy říká **Gaussova-Jordanova eliminace** je gaussova eliminace, která se nezastaví v [[Matice#Horní stupňovitý tvar|horním stupňovitém tvaru]], ale až v bodě, kdy je matice v podobě jednotkové matice. 

@@ -16,8 +16,8 @@ Matice se běžně nazývají velkými písmeny ($A, B, C, ...$) a prvky písmen
 - Jsou to malá čísílka u prvku, která nám říkají, na jakém řádku a v jakém sloupci se nachází.[^1]
 - Např. $a_{1,2}$ je prvek v matici $A$ na prvním řádku a v druhém sloupci.
 
-
-
 [^1]: Pokud je matice vícerozměrná (např. 4 rozměrná), tak existuje index pro každý rozměr.
 
 matic
+
+## Horní stupňovitý tvar
