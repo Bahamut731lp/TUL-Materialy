@@ -1,0 +1,9 @@
+tcp    LISTEN     0      100                                   127.0.0.1:smtp                                                        *:*
+tcp    LISTEN     0      128                                           *:sunrpc                                                      *:*
+tcp    LISTEN     0      5                                 192.168.122.1:domain                                                      *:*
+tcp    LISTEN     0      128                                           *:ssh                                                         *:*
+tcp    LISTEN     0      128                                   127.0.0.1:ipp                                                         *:*
+tcp    LISTEN     0      100                                       [::1]:smtp                                                     [::]:*
+tcp    LISTEN     0      128                                        [::]:sunrpc                                                   [::]:*
+tcp    LISTEN     0      128                                        [::]:ssh                                                      [::]:*
+tcp    LISTEN     0      128                                       [::1]:ipp                                                      [::]:*
