@@ -1,1 +1,0 @@
-# Složitost algoritmu
