@@ -23,6 +23,15 @@ System.out.println("ahoj");
 ```
 
 ## Formátování výstupu
+Pro formátování výstupu lze použít metodu `printf` nebo `format` (jsou úplně stejné, akorát jiná jména).
+
+Výstup se formátuje pomocí **specifikátorů formátu**, který každý začíná znamek `%` a každý reprezentuje jiný datový typ. Například `%s` je specifikátor datového typu `String`.
+
+```Java
+System.out.printf("Ahoj, %s!" ,"jméno");
+//Vytiske:
+//Ahoj, jméno!
+```
 
 ## Načítání ze standardního vstupu
 
