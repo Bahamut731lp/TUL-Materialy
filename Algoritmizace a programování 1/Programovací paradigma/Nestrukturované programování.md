@@ -1,1 +1,0 @@
-# Nestrukturované programování
