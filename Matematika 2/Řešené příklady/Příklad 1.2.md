@@ -1,4 +1,4 @@
-**Určete obor konvergence řady $\Large\sum_{n=1}^{\infty}(x-9)^n3^{(2-2n)}n$
+**Určete obor konvergence řady $\Large\sum_{n=1}^{\infty}(x-9)^n3^{(2-2n)}n$**
 
 Střed konvergence: $\large x-9=0 \implies x=9$
 
