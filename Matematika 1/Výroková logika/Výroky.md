@@ -6,7 +6,7 @@
 > - Negací výroku je jeho "opačná" hodnota.
 
 ## Operace s výroky
-Pro dva libovolné výroky lze provést sadu operací, které následně udávají logický vztah mezi nimi. Zde je akorát popíšu, pro jednotlivé pravdivostní tabulky[^1] se podívejte na [[Logické funkce|logické funkce]].
+Pro dva libovolné výroky lze provést sadu operací, které následně udávají logický vztah mezi nimi. Zde je akorát popíšu, pro jednotlivé [[Pravdivostní tabulka|pravdivostní tabulky]] se podívejte na [[Logické funkce|logické funkce]].
 
 **Negace výroku**
 Pokud je výrok pravdivý, pak jeho negace bude **nepravda**. Naopak, pokud je nepravdivý, tak jeho negací bude pravda.
@@ -21,7 +21,3 @@ Implikace z výroku je "vyvození" nějakého výroku z jiného výroku. V podst
 
 **Pozor, u implikace nelze "směr vyvození" obrátit!**
 Když platí předpoklad, tak platí závěr. To ale neznamená, že když platí závěr, že bude i platit předpoklad. Pokud vám to nedává smysl, představte si, že implikace je jednosměrka a zkrátka to nesmíte otočit do protisměru!
-
-
-
-[^1]: To jsou tabulky, které říkají, kdy je vztah mezi výroky pravdivý.
