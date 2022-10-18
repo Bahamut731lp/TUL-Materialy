@@ -1,0 +1,109 @@
+{
+  "main": {
+    "id": "eebae563341824e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0924a6af4c1d95b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f21c1afa115a335",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68c167e2bfa7ba31",
+    "type": "split",
+    "children": [
+      {
+        "id": "141ce9eb62241bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c419875edf7850fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "22d46b45545cc3bf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "příklad",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 305.01499938964844
+  },
+  "right": {
+    "id": "ca3aa6f19fec5c52",
+    "type": "split",
+    "children": [
+      {
+        "id": "20a73b1095e80537",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5a27969bff4ad66",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1f21c1afa115a335",
+  "lastOpenFiles": [
+    "Matematika 1/Komplexní čísla/Moivreova Věta.md",
+    "Algoritmizace a programování 1/Syntaxe/Členění programu/Třída.md",
+    "Algoritmizace a programování 1/Prostředky jazyka Java/Pole.md",
+    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu.md",
+    "Algoritmizace a programování 1/Základy/Programový kontext.md",
+    "Algoritmizace a programování 1/Syntaxe/Členění programu/Objekt.md",
+    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu/Privátní konstrukce.md",
+    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu/Veřejné konstrukce.md",
+    "Algoritmizace a programování 1/Syntaxe/Členění programu/Metody.md",
+    "Algoritmizace a programování 1/Syntaxe/Členění programu/Balíky.md"
+  ]
+}

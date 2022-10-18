@@ -1,0 +1,1 @@
+**Objekt**, neboli **instance třídy**

@@ -1,4 +1,3 @@
-# Algoritmus
 Postup k řešení nějakého problému.
 
 > **TL,DR:**
@@ -38,7 +37,7 @@ Postup k řešení nějakého problému.
 # Kritéria dělení algoritmů
 ## Iterativní vs. Rekurzivní algoritmy
 - **Iterativní algoritmy** opakují jistou část kódu pomocí [[Cykly|cyklů]], 
-- **Rekurzivní algoritmy** využívají [[Rekurze|rekurzi]] k opakování [[Funkce|funkcí]], [[Procedury|procedur]] či [[Metody|metod]].
+- **Rekurzivní algoritmy** využívají [[Algoritmizace a programování 2/Rekurze|rekurzi]] k opakování [[Funkce|funkcí]], [[Procedury|procedur]] či [[Metody|metod]].
 - Algoritmy lze převádět mezi těmito podobami tam a zpátky.
 
 ## Deterministické vs. Nedeterministické
