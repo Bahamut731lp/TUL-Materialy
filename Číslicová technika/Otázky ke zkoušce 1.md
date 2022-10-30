@@ -184,4 +184,58 @@ Logický zisk je počet vstupů připojených na jeden výstup. Maximální poč
 - **Programovatelné** si může zákazník upravit sám
 - **Zakázkové** jsou vyráběne pro konkrétní účel a jsou pro něj také optimalizované
 
-**34. Popiště funkci liché parity pomocí UNDF a UNKF**
+**34. Popiště funkci liché parity pro 3 proměnné pomocí UNDF a UNKF**
+- Lichá parita: 1 když má funkce lichý počet jedniček
+- UNDF: Úplná normální disjunktní forma
+- UNKF: Úplná normální konjuktivní forma
+
+**35.  Jaká jsou kritéria minimality logických výrazů?**
+- Co nejméně [[Booleovský výraz|termů]]
+- Co nejméně nezávislých proměnných v [[Booleovský výraz|termu]]
+- Co nejméně negací
+
+**36. Co je to kombinační obvod?**
+(viz [[Kombinační obvody]])
+- Kombinační obvod je takový obvod, jehož výstup závisí jen a pouze na okamžitém stavu vstupu.
+
+**37. Co je CLB a LUT**
+(viz [[FPGA]])
+- CLB (Configurable Logic Block) - Programovatelná buňka v FPGA obvodech
+- LUT (Lookup Table) - Blok realizující pravdivostní tabulku uvnitř FPGA buněk.
+
+**38.  Schéma 2 bitového posuvného registru  s možností přepínání mezi sériovým a paralelním režimem**
+
+>Něco podobného tomuhle, jenom se musí doplnit ovládací logika na přepínání sériového a paralelního režimu
+>
+>![[Pasted image 20220607213347.png]]
+
+**39. Co je to přímý implikant logické funkce?**
+- Přímý implikant je takový term, který po vynechání proměnné přestává implikovat logickou danou logickou funkci
+
+**40. Nakreslete odběrovou charakteristiku TTL invertoru**
+
+>**Odběrová charakteristika TTL invertoru**
+>
+>![[Pasted image 20220607221045.png]]
+
+**41. Jaký mají význam časy T-Set a T-Hold ve vícestupňových klopných obvodech?**
+- Jedná se o časy, které udávají, po jakou dobu musí být data stabilní (neměnná)
+- **T-Set** je doba před hranou hodinového signálu
+- **T-Hold** je doba po hraně hodinového signálu
+
+>**Diagram ukazující T-Set a T-Hold**
+>
+>![[Pasted image 20220607221317.png]]
+
+**42. Co je to plně asociativní cache?**
+Celá adresa je brána jako tag, tudíž má kažý řádek tabulky vlastní komparátor
+
+>**Plně asociativní cache**
+>
+>![[Pasted image 20220608075158.png]]
+
+**43. Popiště, jakým způsobem pracuje násobička**
+
+>**Násobička**
+>
+>![[Pasted image 20220608075513.png]]
