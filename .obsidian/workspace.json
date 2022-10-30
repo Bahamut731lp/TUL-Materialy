@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "342f8705c653a289",
+    "type": "split",
+    "children": [
+      {
+        "id": "d367ccc98027b8c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf926e4fa0a4af34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "cd9855f4a735106d"
+          }
+        ]
+      },
+      {
+        "id": "0f76dea29ea036ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "261c15bcf48dbe68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "cd9855f4a735106d"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "59359d5b0b804f8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd6704857db7e578",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea98e9bc7b7fdb0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "689838f5b54b59e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "pasted image",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "46c13f6b2ae68ad7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aabbc3ed07a254b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a049d833c08b0020",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bf926e4fa0a4af34",
+  "lastOpenFiles": [
+    "Matematická olympiáda Z9.md",
+    "Z8.md",
+    "README.md",
+    "Úvod do lineární algebry/Skalární součin.md",
+    "Úvod do lineární algebry/Vektor.md",
+    "Úvod do lineární algebry/Vektorové prostory/Báze.md",
+    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md",
+    "Úvod do lineární algebry/Vektory/Geometrický vektor.md",
+    "Algoritmizace a datové struktury/Asymptotická složitost.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Incidence.md"
+  ]
+}
