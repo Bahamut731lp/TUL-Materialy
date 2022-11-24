@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0924a6af4c1d95b8",
+        "id": "a08c8cabeebf7180",
         "type": "tabs",
         "children": [
           {
-            "id": "1f21c1afa115a335",
+            "id": "3bd21608b969b8bc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "příklad",
+                "query": "inverzní",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,6 +73,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Matematika 1/Příklady/Příklad 2.6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,20 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "1f21c1afa115a335",
+  "active": "c419875edf7850fc",
   "lastOpenFiles": [
-    "Matematika 1/Komplexní čísla/Moivreova Věta.md",
-    "Algoritmizace a programování 1/Syntaxe/Členění programu/Třída.md",
-    "Algoritmizace a programování 1/Prostředky jazyka Java/Pole.md",
-    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu.md",
-    "Algoritmizace a programování 1/Základy/Programový kontext.md",
-    "Algoritmizace a programování 1/Syntaxe/Členění programu/Objekt.md",
-    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu/Privátní konstrukce.md",
-    "Algoritmizace a programování 1/Syntaxe/Modifikátory přístupu/Veřejné konstrukce.md",
-    "Algoritmizace a programování 1/Syntaxe/Členění programu/Metody.md",
-    "Algoritmizace a programování 1/Syntaxe/Členění programu/Balíky.md"
+    "Matematika 1/Příklady/Příklad 2.5.md",
+    "Matematika 1/Příklady/Příklad 2.6.md",
+    "Matematika 1/Příklady/Příklad 2.2.md",
+    "Matematika 1/Příklady/Příklad 2.3.md",
+    "Matematika 1/Příklady/Příklad 2.4.md",
+    "Matematika 1/Příklady/Příklad 2.1.md",
+    "Matematika 1/Příklady/Příklad 1.2.md",
+    "Matematika 1/Příklady/Příklad 1.1.md",
+    "Databázové systémy/Množinové operace.md",
+    "Databázové systémy/Relační operace.md"
   ]
 }

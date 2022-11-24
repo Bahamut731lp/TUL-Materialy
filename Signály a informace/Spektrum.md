@@ -1,0 +1,3 @@
+
+
+## Rozmazání spektra

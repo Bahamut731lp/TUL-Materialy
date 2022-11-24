@@ -1,5 +1,5 @@
 # Třída System
-Pro přístup ke [[Standardní vstup a výstup|standardním proudům]] lze použít Java třídu `System`, která má [[Atribut|atributy]] 
+Pro přístup ke [[Algoritmizace a programování 1/Interakce s uživatelem/Standardní vstup a výstup|standardním proudům]] lze použít Java třídu `System`, která má [[Atribut|atributy]] 
 - `in` - pro ovládání standardního vstupu,
 - `out` - pro ovládání standardního výstupu,
 - `err` - pro ovládání standardního chybového výstupu.
