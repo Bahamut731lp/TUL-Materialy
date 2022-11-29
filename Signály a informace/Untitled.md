@@ -1,1 +1,0 @@
-- Pomocí $\cos(x)$ lze vyjádřit konstantu

@@ -6,15 +6,16 @@ Schéma relace je v **nulté normální formě** právě tehdy, když na něj ne
 ## Nultá normální forma (0NF)
 Schéma relace je v **nulté normální formě** právě tehdy, když existuje alespoň jeden atribut, který obsahuje více než jednu hodnotu
 
-## První normální forma (1NF)
+## První normální forma (1NF, Atomicita)
 Schéma relace je v **první normální formě** právě tehdy, když jsou všechny atributy **atomické**, neboli je již nelze rozložit na menší atributy.
 
-## Druhá normální forma (2NF)
+
+## Druhá normální forma (2NF, Částečná závislost)
 Schéma relace je v **druhé normální formě** právě tehdy, když je splněna 1NF, a každý neklíčový atribut je funkčně závislý na [[Kandidátní klíč|kandidátním klíči]].
 
-Jinak řečeno, nesmí existovat podklíč, který není plně závislý na primárním klíči.
+Jinak řečeno, nesmí existovat částečná závislost na [[Kandidátní klíč|kandidátním klíči]]. Buď je sloupec závislý na celém kandidátním klíči, nebo tabulka nesplňuje 2NF. A ještě jinak řečeno, všechno musí přímo souviset s primárním/kandidátním klíčem.
 
-## Třetí normální forma (3NF)
+## Třetí normální forma (3NF, Tranzitivní závislost)
 Schéma relace je v **třetí normální formě** právě tehdy, když je splněna 3NF a tabulka neobsahuje [[Tranzitivnost|tranzitivní]] závislosti. Jinak řečeno, neexistuje atribut, který by byl závislý na jiném atributu, který není [[Kandidátní klíč|kandidátním klíčem]].
 
 Způsob, jakým lze třetí normální formu uspokojit je dekompozice tabulky, díky čemuž dosáhneme odstranění nalezené tranzitivní závislosti.
