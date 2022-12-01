@@ -59,4 +59,32 @@ $$\large\begin{eqnarray}
 (e^x)^\prime&=&e^x\\\\
 (\log_cx)^\prime&=&\frac{1}{x\cdot \ln c};\quad c>0\wedge c\ne0\\\\
 (\ln x)^\prime&=&\frac{1}{x}
+\\\\\\
 \end{eqnarray}$$
+
+$$\Large
+\begin{aligned}
+
+\frac{dx}{dy}\left(\frac{\sqrt{x}}{4-\sqrt{x}}\right) \\
+\\
+f &= \sqrt{x}\\
+\frac{dx}{dy}(f) &= \frac{1}{2}x^{-\frac{1}{2}}=\frac{1}
+{2\sqrt{x}}\\
+\\
+g &= 4 - \sqrt{x}\\
+\frac{dx}{dy}(g) &= -\frac{1}{2\sqrt{x}} \\
+\\
+\frac{dx}{dy}\left(\frac{\sqrt{x}}{4-\sqrt{x}}\right) &= \frac{f'\cdot{g} - f\cdot{g'}}{g^2} \\
+&= \frac{\frac{1}
+{2\sqrt{x}}\cdot{(4 - \sqrt{x})} - \sqrt{x}\cdot\left({-\frac{1}
+{2\sqrt{x}}}\right)}{(4 - \sqrt{x})^2} \\
+&= \frac{\frac{\cancel{4}}
+{\cancel{2}\sqrt{x}} - \frac{\cancel{\sqrt{x}}}{2\cancel{\sqrt{x}}}+{\frac{\cancel{\sqrt{x}}}
+{2\cancel{\sqrt{x}}}}}{(4 - \sqrt{x})^2} \\
+
+&= \frac{\frac{2}{\sqrt{x}}-\frac{1}{2}+\frac{1}{2}}{(4-\sqrt{x})^2} \\
+&= \frac{2}{\sqrt{x}} \cdot \frac{1}{16 - 8\sqrt{x}+x}
+
+
+\end{aligned}
+$$

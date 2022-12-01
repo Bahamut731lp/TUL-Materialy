@@ -1,0 +1,1 @@
+**Dělič napětí** (nebo také **napětový dělič**, **odporový dělič**) je obvod, který slouží k získání napětí, které je úměrné vstupnímu napětí.

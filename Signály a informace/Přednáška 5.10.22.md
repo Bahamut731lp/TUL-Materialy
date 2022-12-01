@@ -5,7 +5,7 @@ Vznik číslicových signálů
 - Vytvoření posloupnosti vzorků z naměřených hodnot
 - Vytvoření dat  nějakým generátorem
 
-Často se bude pracovat s jednorozměrnými, nebo dvourozměrnými signály. Viz [[Signály]].
+Často se bude pracovat s jednorozměrnými, nebo dvourozměrnými signály. Viz [[Signál]].
 
 - Vytvoteřní číslicového signálu výčtem
 ```matlab
