@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bbfb95947749b95e",
+        "id": "d5b80e6a585518e4",
         "type": "tabs",
         "children": [
           {
-            "id": "1c845e6b8c31dd59",
+            "id": "55cb740f76e6b898",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signály a informace/Vlastnosti diskrétních signálů/Škálování.md",
+                "file": "Databázové systémy/Pohledy.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "d22da3a9965b04a5",
+            "id": "1b4ec49d72975fb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signály a informace/Vlastnosti diskrétních signálů/Aritmetické operace signálů.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "84e82a2b36a8a803",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signály a informace/Vlastnosti diskrétních signálů/Vzorkovací operace.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "03a6aec4a78695ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Signály a informace/Vlastnosti diskrétních signálů/Derivace a integrace signálu.md",
-                "mode": "source",
+                "file": "Databázové systémy/Struktura zkoušky.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "delta",
+                "query": "aditivita",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Signály a informace/Vlastnosti diskrétních signálů/Derivace a integrace signálu.md",
+                "file": "Databázové systémy/Struktura zkoušky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03a6aec4a78695ca",
+  "active": "1b4ec49d72975fb7",
   "lastOpenFiles": [
-    "Signály a informace/Vlastnosti diskrétních signálů/Vzorkovací operace.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Aritmetické operace signálů.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Škálování.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Otočení signálu.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Posun signálu.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Operace s číslicovými signály.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Nás.md",
-    "Signály a informace/Vlastnosti diskrétních signálů/Parametry číslicových signálů.md",
-    "Signály a informace/Speciální číslicové signály/Rampa.md",
-    "Signály a informace/Speciální číslicové signály/Obdélníkový pulz.md"
+    "Databázové systémy/Indexy.md",
+    "Databázové systémy/Pohledy.md",
+    "Databázové systémy/Přístupová práva.md",
+    "Databázové systémy/SQL/Data Control Language.md",
+    "Databázové systémy/Přístupová práva/Autorizační identifikátor.md",
+    "Databázové systémy/Databázový objekt.md",
+    "Databázové systémy/Struktura zkoušky.md",
+    "delt.md",
+    "Matematika 1/Příklady/Příklad 1.2.md",
+    "Matematika 1/Příklady/Příklad 1.1.md"
   ]
 }

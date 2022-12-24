@@ -1,0 +1,1 @@
+(tabulkám, triggerům, procedurám, pohledům) 
