@@ -10,7 +10,7 @@ Diferencovatelnost je vlastností, která říká, že se funkce dá v nějakém
 Funkce je diferencovatelná, pokud
 - je [[Spojitost funkce|spojitá]]
 - nemá "hroty" (náhlé změny [[Monotónnost funkce|monotónosti]])
-- a v žádném směru neroste nekonečně rychle
+- a v žádném směru neroste nekonečně rychle ("není tam svislá čára")
 
 Funkce jedné reálné proměnné jsou diferencovatelné, pokud mají konečnou [[Úvod do derivací|derivaci]]
 

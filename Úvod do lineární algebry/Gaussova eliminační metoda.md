@@ -1,4 +1,3 @@
-# Gaussova eliminační metoda
 Gaussova eliminační metoda je algoritmem pro převedení matice do [[Matice#Horní stupňovitý tvar|horního stupňovitého tvaru]].
 
 ## Gaussovské operace

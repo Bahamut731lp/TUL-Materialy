@@ -1,4 +1,3 @@
-# Diferenciál
 Diferenciál říká, jak moc se změní [[Úvod do funkcí#Základní pojmy k funkcím|funkční hodnota]] v závislosti na argumentu.
 
 >**TL,DR:**
@@ -23,12 +22,12 @@ Výraz $f'(a)h$ - [[Úvod do derivací|derivaci]] v bodě $a$ krát okolí $h$ z
 
 Pro značení se tedy používá $df(a)$, tedy **diferenciál** ($d$) funkce v bodě a ($f(a)$). Vzhledem k tomu, že to je diferenciál funkční hodnoty, tak se také značí jako $dy$
 
-> Znázornění jednotlivých prvků diferenciálu funkce $f$ v bodě $c$:
+> [!example] Znázornění jednotlivých prvků diferenciálu funkce $f$ v bodě $c$:
 > 
 > ![[Pasted image 20211101011046.png]]
 
  ## Jaký je rozdíl mezi diferenciálem a derivací?
- Možná jste si všimli, že diferenciál vypadá fakt hodně jako derivace. Je mezi nimi vůbec nějaký rozdíl? No, kdyby nebyl, tak by se nezaváděli dva různé termíny, že.
+ Možná jste si všimli, že diferenciál vypadá fakt hodně jako derivace. Je mezi nimi vůbec nějaký rozdíl? No, kdyby nebyl, tak by se nezaváděli dva různé termíny, že...
  
  - **Derivace** říká, jak rychle se hodnoty mění.
  - **Diferenciál** říká přesné číslo, o kolik se změní (+ chyba).

@@ -1,4 +1,3 @@
-# Třída System
 Pro přístup ke [[Standardní vstup a výstup|standardním proudům]] lze použít Java třídu `System`, která má [[Atribut|atributy]] 
 - `in` - pro ovládání standardního vstupu,
 - `out` - pro ovládání standardního výstupu,

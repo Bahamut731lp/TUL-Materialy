@@ -2,7 +2,7 @@
 # Předpis funkce
 Postup, pomocí kterého ze vstupní proměnné vypočítáme proměnnou výstupní nazýváme **předpis funkce**. 
 
-> **TL,DR:**
+> [!tldr]
 > - Předpis funkce říká, jakým způsobem se počítá funkční hodnota (nejčastěji označována jako $y$)
 
 Předpis funkce můžeme zapsat dvěma způsoby, které jsou si nazvájem rovny:

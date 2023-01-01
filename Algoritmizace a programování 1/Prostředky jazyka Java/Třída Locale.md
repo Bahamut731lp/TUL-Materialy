@@ -1,4 +1,3 @@
-# Třída Locale
 Některé prostředky jazyka Java mohou být **lokalizovatelné**. Když jsou třídy lokalizovatelné, znamená to, že je lze přizpůsobit k nějakému danému jazyku - například, zda se má použít desetinná čárka, nebo desetinná tečka.
 
 ```java

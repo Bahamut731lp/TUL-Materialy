@@ -1,2 +1,1 @@
-# Syntaktická analýza
 Syntaktická analýza je proces kontroly správnosti programu, kdy se hledí na to, zda jsou instrukce zapsány ve správném pořadí a tvaru.

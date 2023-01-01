@@ -1,50 +1,49 @@
-# Příklad 4.2
-$$\large\begin{aligned}
-&\int_{0}^{1}\frac{x^4}{(e^{x^5})^5} \; dx = \int_{0}^{1}\frac{x^4}{e^{5x^5}} \; dx = \\
-\end{aligned}$$
-
-## Výpočet neurčitého integrálu:
----
-Substituce:
+> [!example] Vypočtěte
+> $$\Large \int_0^{1} \frac{x^4}{\left(e^{x^5}\right)^5}\;dx$$
 
 $$\large
-\begin{aligned}
-u &= x^5 \\
-du &= 5x^4 \; dx \\
-\end{aligned}
+\begin{align}
+	&= \int_0^{1} \frac{x^4}{e^{5x^5}}\;dx \\
+	&= \frac{1}{25}\int_0^{1} \frac{25x^4}{e^{5x^5}}\;dx
+\end{align}
 $$
 
-Přidání koeficinetu $5$ k $x^4$, aby se lépe substituovalo :
-$$\large\begin{aligned}
-&\int\frac{x^4}{e^{5x^5}} \; dx = \frac{1}{\cancel{5}}\int\frac{\cancel{5}x^4}{e^{5x^5}} \; dx\\
-\end{aligned}$$
+> [!tip]- Substituce
+>
+>$$\large\begin{aligned}
+u &= 5x^5 \\
+du &= 25x^4 \\
+>\end{aligned}$$
 
----
-$$\large\begin{aligned}
-&= \frac{1}{5}\int\frac{1}{e^{5x^5}} (5x^4 \; dx) \\
+$$\large
+\begin{align}
+	&= \frac{1}{25}\int_0^{5} \frac{1}{e^{u}}\;du \\
+	&= \frac{1}{25}\int_0^{5} e^{-u}\;du
+\end{align}
+$$
 
-&= \frac{1}{5}\int\frac{1}{e^{5u}} \; du \\
+> [!tip]- Substituce
+>
+>$$\large\begin{aligned}
+v &= -u \\
+dv &= -du \\
+>\end{aligned}$$
 
-&= \frac{1}{5}\int e^{-5u} \; du \\
+$$\large
+\begin{align}
+	&= -\frac{1}{25}\int_{0}^{-5} e^{v}\;dv \\
+	&= \frac{1}{25}\int_{-5}^{0} e^{v}\;dv \\
+\end{align}
+$$
 
-&= \frac{1}{5}\cdot\left(-\frac{1}{5}e^{-5u}\right) \\
+> [!warning] Pozor na hranice integrace
+>Pro $a > b$ platí, že $\int_a^b f(x) = -\int_b^a f(x)$.
+>viz [[Integrační meze#Otočení integračních mezí]]
 
-&= -\frac{1}{25}e^{-5u} \\
-
-&= \boxed{-\frac{1}{25}e^{-5x^5}} \\
-\end{aligned}$$
-
-## Výpočet určitého integrálu
-$$\large\begin{aligned}
-&\int_{0}^{1}\frac{x^4}{(e^{x^5})^5} \; dx = \left[-\frac{1}{25}e^{-5x^5}\right]_{0}^{1}\\
-
-&= -\frac{1}{25}e^{-5\cdot1^5} - \left(-\frac{1}{25}e^{-5\cdot 0^5}\right) \\
-
-&= -\frac{1}{25}e^{-5} + \frac{1}{25}e^{0} \\
-
-&= -\frac{e^{-5}}{25} + \frac{1}{25} \\
-
-&= \frac{-e^{-5} + 1}{25} \\
-
-&= \boxed{\frac{1 - e^{-5}}{25}}
-\end{aligned}$$
+$$\large
+\begin{align}
+	&= \frac{1}{25}\left[e^v\right]^{0}_{-5} \\
+	&= \frac{1}{25}\cdot\left(e^0 - e^{-5}\right) \\
+	&= \boxed{\frac{1}{25}\cdot\left(1 - e^{-5}\right)} \\
+\end{align}
+$$

@@ -1,4 +1,3 @@
-# Důkazy
 Důkazy slouží k ověření pravdivosti [[Výroky|výroků]]. Pravdivost se ověřuje pomocí [[Axióm|axiómů]], definic a již dříve dokázaných vět.
 
 ## Druhy důkazů
@@ -6,6 +5,7 @@ Důkaz pravdivosti výroku můžeme provést několika způsoby, vždy se ale je
 
 ### Přímý důkaz
 Používá se k dokazování implikace tím, že se výrok rozloží na řetězec menších pravdivých implikací.
+>[!example] Proces přímého důkazu
 >$$\Large\begin{cases}
  p &\implies q &\large\text{Původní výrok}\\
  p_1&\implies p_2 &\large\text{První krok}\\
@@ -17,6 +17,7 @@ Používá se k dokazování implikace tím, že se výrok rozloží na řetěze
 
 ### Nepřímý důkaz
 Používá se k dokazování implikace tím, že se dokáže, že platí negovaná implikace
+>[!example] Proces nepřímého důkazu
 >$$\Large\begin{cases}
  p &\implies q &\large\text{Tvrzení}\\
  \neg{q} &\implies \neg{p} &\large\text{Nepřímý důkaz} \\

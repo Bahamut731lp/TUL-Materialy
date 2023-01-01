@@ -1,7 +1,6 @@
-# Skalární součin vektorů
 Skalární součin je operace, která dvěma vektorům přiřazuje číslo.
 
->**TL,DR:**
+>[!tldr]
 >- V komplexních prostorech je skalární součin pěkně na pytel
 
 Skalární součin není nic jiného, než speciální [[Zobrazení|zobrazení]], které dvou [[Vektor|vektorům]] z nějakého [[Vektorové prostory|vektorového prostoru]] přiřadí číslo z [[Algebraické těleso|tělesa]], nad kterým je vektorový prostor definován.

@@ -1,4 +1,3 @@
-# Strom
 **Strom** je abstraktní datová struktura, která reprezentuje [[Vlastnosti grafu#Souvislost grafu|souvislý]] [[Vlastnosti grafu#Orientovanost grafu|neorientovaný]] [[Graf|graf]].
 
 - Každý vrchol má $n$ potomků.
@@ -29,7 +28,8 @@ Při procházení do hloubky lze rozlišovat mezi tím, v jakém pořadí proved
 - **Inorder** - Nejdříve se provede akce na uzlech levého podstromu, poté na kořenu, a až poté na pravém podstromu
 - **Postorder** - Nejdříve se provede akce na uzlech levého podstromu, následně pravého, a až na konec u uzlu.
 
-![[Pasted image 20221018163915.png]]
+>[!quote] Pořadí prvků při různých režimech procházení
+>![[Pasted image 20221018163915.png]]
 
 
 ## Binární strom

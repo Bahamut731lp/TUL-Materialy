@@ -1,4 +1,3 @@
-# Třída Scanner
 Třída Scanner slouží ke čtení [[Streams API|datových proudů]]. Nejčasteji se používá pro čtení [[Standardní vstup a výstup|standardního vstupu]] nebo dat ze souboru.
 
 ```java

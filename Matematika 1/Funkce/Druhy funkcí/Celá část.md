@@ -1,4 +1,3 @@
-# Celá část
 Celá část je taková funkce, která "zahodí všechno za desetinnou čárkou."
 
 > **Definice celé části**:

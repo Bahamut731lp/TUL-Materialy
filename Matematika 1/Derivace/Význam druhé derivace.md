@@ -1,1 +1,0 @@
-# Význam druhé derivace

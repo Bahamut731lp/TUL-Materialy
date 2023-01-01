@@ -1,5 +1,4 @@
-# Derivace mocniny
-**Příklad**: Uvažujme o $y = x^2$. Celý diferenciální počet je o tom, že hledáme poměr růstu mezi dvěma proměnnými. V tomhle případě nás zajímá, jak rychle se mění $y$ v závislosti na $x$. Jinak řečeno, jaký je poměr $\frac{dy}{dx}$
+Uvažujme o $y = x^2$. Celý diferenciální počet je o tom, že hledáme poměr růstu mezi dvěma proměnnými. V tomhle případě nás zajímá, jak rychle se mění $y$ v závislosti na $x$. Jinak řečeno, jaký je poměr $\frac{dy}{dx}$
 
  Nechme $x$ se trochu zvětšit, takže se z něho stane $x + dx$. Poté se zákonitě musí také zvětšit $y$, a to na $y + dy$. 
  $$
@@ -31,4 +30,4 @@ $$
  \end{aligned}
 $$
 
-Tomuhle postupu se říká derivování funkce ($y$) podle proměnné $x$. Derivace není nic jiného než nalezení tohodle poměru. Nikdo to takhle zdlouhavě nepočítá, proto se používá [[Pravidla pro práci s derivacemi#Standardní funkce|pravidlo pro derivování mocnin]], které by nám od hnedka z místa dalo tenhle výsledek.
+Tomuhle postupu se říká derivování funkce ($y$) podle proměnné $x$. Derivace není nic jiného než nalezení tohodle poměru. Nikdo to takhle zdlouhavě nepočítá, proto se používá pravidlo pro derivování mocnin, které by nám od hnedka z místa dalo tenhle výsledek.

@@ -1,9 +1,9 @@
 # Algoritmizace
-Postup, kterým vytváříme [[Algoritmus|algoritmus]] pro řešení daného problému ($Algoritmizace \rightarrow Algoritmus$).
+Postup, kterým vytváříme [[Algoritmizace a programování 1/Základy/Algoritmus|algoritmus]] pro řešení daného problému ($Algoritmizace \rightarrow Algoritmus$).
 
->**TL,DR:**
+>[!tldr]
 >- Výsledkem algoritmizace je algoritmus
->- Kroky algoritmizace 
+>- Kroky algoritmizace:
 >   - Formulace a analýza problému
 >   - Návrh, realizace a ladění řešení 
 

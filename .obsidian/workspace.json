@@ -4,40 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "d367ccc98027b8c4",
+        "id": "84156f9068fe25f7",
         "type": "tabs",
         "children": [
           {
-            "id": "bf926e4fa0a4af34",
+            "id": "2a26079cdab1f25e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "file": "Matematika 1/Příklady/Příklad 4.55.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "cd9855f4a735106d"
+            "group": "c0bbdccf498ecc65"
           }
         ]
       },
       {
-        "id": "0f76dea29ea036ac",
+        "id": "bc6f3961a9aff1eb",
         "type": "tabs",
         "children": [
           {
-            "id": "261c15bcf48dbe68",
+            "id": "3c52c019d47102d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "file": "Matematika 1/Příklady/Příklad 4.55.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "cd9855f4a735106d"
+            "group": "c0bbdccf498ecc65"
           }
         ]
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pasted image",
+                "query": "logaritm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Derivace/Diferenciál.md",
+                "file": "Matematika 1/Příklady/Příklad 4.55.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,20 +115,26 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
   },
-  "active": "bf926e4fa0a4af34",
+  "active": "2a26079cdab1f25e",
   "lastOpenFiles": [
-    "Matematická olympiáda Z9.md",
-    "Z8.md",
-    "README.md",
-    "Úvod do lineární algebry/Skalární součin.md",
-    "Úvod do lineární algebry/Vektor.md",
-    "Úvod do lineární algebry/Vektorové prostory/Báze.md",
-    "Úvod do lineární algebry/Vektory/Aritmetický vektor.md",
-    "Úvod do lineární algebry/Vektory/Geometrický vektor.md",
-    "Algoritmizace a datové struktury/Asymptotická složitost.md",
-    "Úvod do diskrétní matematiky/Teorie grafů/Incidence.md"
+    "Matematika 1/Příklady/Příklad 4.34.md",
+    "Matematika 1/Příklady/Příklad 4.58.md",
+    "Matematika 1/Příklady/Příklad 4.57.md",
+    "Matematika 1/Příklady/Příklad 4.56.md",
+    "Matematika 1/Příklady/Příklad 4.55.md",
+    "Matematika 1/Příklady/Příklad 4.60.md",
+    "Matematika 1/Příklady/Příklad 4.59.md",
+    "Matematika 1/Příklady/Příklad 4.65.md",
+    "Matematika 1/Příklady/Příklad 4.64.md",
+    "Matematika 1/Příklady/Příklad 4.63.md"
   ]
 }

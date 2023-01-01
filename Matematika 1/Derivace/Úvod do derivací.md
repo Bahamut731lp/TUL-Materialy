@@ -1,7 +1,7 @@
 # Derivace
 Derivace funkce udává změnu její [[Úvod do funkcí#Základní pojmy k funkcím|funkční hodnoty]] v poměru k argumentu.
 
->**TL,DR:**
+>[!tldr]
 >- Derivace je tečna ke křivce, která popisuje rychlost změny funkční hodnoty a argumentu
 >- Derivace se počítají pomocí směrnice sečny, kde se vzdálenost mezi body na sečně limitně blíží k nule
 >$$\Large\lim_{h\to 0} = \frac{f(a + h) - f(a)}{h} = \frac{\Delta{y}}{\Delta{x}}$$
@@ -11,8 +11,7 @@ Derivace funkce udává změnu její [[Úvod do funkcí#Základní pojmy k funkc
 
 Pokud máme nějakou křivku, na které si zvolíme bod, tak derivace není nic jiného, než určení [[Předpis funkce|předpisu]] [[Tečna|tečny]][^2], která se dotýká právě v tomhle bodě.
 
->Modrá čára je **tečna** ke grafu funkce $f(x)=x^2$ 
->Obrázek níže je **derivací funkce v bodě D**
+>[!example] Derivace funkce $f(x)=x^2$ v bodě $D$
 >![[Pasted image 20211026230823.png]]
 
 K zjištění předpisu tečny (modré čáry) potřebujeme nějak odhadnout úhel $\alpha$, nebo nějak jinak vyjádřit její naklonění či **směr**. 
@@ -22,13 +21,14 @@ Vzhledem k tomu, že to je lineární funkce - neboli nějaká přímka, tak jej
 Musíme mít na přímce tedy alespoň 2 body, abychom vytvořili pravoúhlý trojúhelník a mohli používat goniometrické funkce - tedy místo tečny musíme počítat se sečnou.
 
 Vybereme si tedy bod další bod na křivce, který není totožný s derivovaným bodem, a vytvořím [[Sečna|sečnu]].
->Sečna procházejícím body $[a, f(a)]$ a $[b, f(b)]$
+>[!example] Sečna procházejícím body $(a, f(a))$ a $(b, f(b))$
 >![[Pasted image 20211026231911.png]]
 
 Jak budeme vzdálenost mezi těmito body zmenšovat, tak bude sečna blíž a blíž připomínat námi hledanou [[Tečna|tečnu]].
 
->- Body $C_1$ a $C_2$ jsou blíž a blíž bodu $A$
->- Směrnice sečen, na kterých body $C_1$ a $C_2$ leží (čárkované čáry) se víc a víc blíží k námi hledané <span style="color: red">tečně</span>
+>[!example] Body $C_1$ a $C_2$, které se blíží k bodu $A$
+>Směrnice sečen, na kterých body $C_1$ a $C_2$ leží (čárkované čáry) se víc a víc blíží k námi hledané <span style="color: red">tečně</span>.
+>
 >![[Pasted image 20211026233029.png]]
 
 Problém ale je, že se ať si body přiblížíme jak chcem, tak pořád nemůžeme tyto body spojit do jednoho, jinak bychom [[Směrnicový tvar přímky#Směrnice přímky|směrnici]] nemohli vypočítat[^1]. Máme tedy nějaký nástroj, který by nám ten druhý bod přiblížil nekonečně blízko? No samozřejmě. [[Limita funkce|Limity]].
@@ -40,11 +40,8 @@ Body k sobě limitně přiblížíme tak blízko, že budou v podstatě jeden.
 
 Pokud bychom si vzdálenost mezi těmi dvěma body ležícími na sečně označili nějakým písmenkem (např. $h$), tak můžeme zkoumat [[Limita funkce|limitu]], když by se tahle vzdálenost $h$ blížila k nule.
 
->Zápis pomocí vzdálenosti $h$
+>[!example] Zápis pomocí vzdálenosti $h$
 > $$\Large\lim_{h\to 0} = \frac{f(a + h) - f(a)}{h} = \frac{\Delta{y}}{\Delta{x}}$$
-> Oba zápisy říkají to samé.
-
->Zápis pomocí vzdálenosti $h$ v grafu.
 >![[Pasted image 20211026235429.png]]
 
 Těmto limitám se říká **derivace v bodě funkce** a značíme jí jako název funkce s apostrofem (např. $f'(x)$).

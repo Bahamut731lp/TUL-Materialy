@@ -1,6 +1,4 @@
-# Algebraické těleso
-
->**TL,DR:**
+>[!tldr]
 >-  **Tělesem** nazýváme množinu uzavřenou na dvě binární operace 
 >    - sčítání
 >    - a násobení

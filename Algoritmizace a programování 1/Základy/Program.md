@@ -1,5 +1,5 @@
 # Program
-Program je konkrétní implementace [[Algoritmus|algoritmu]] pomocí [[Programovací jazyk|programovacího jazyka]].
+Program je konkrétní implementace [[Algoritmizace a programování 1/Základy/Algoritmus|algoritmu]] pomocí [[Programovací jazyk|programovacího jazyka]].
 
 >**TL,DR**:
 >Program obsahuje příkazy, které realizují algoritmus.
