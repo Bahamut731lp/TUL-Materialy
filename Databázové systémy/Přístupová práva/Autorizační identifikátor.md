@@ -1,0 +1,1 @@
+**Autorizační identifikátor** určuje, ke kterým [[Databázový objekt|objektům]] má uživatel přístup, a jaké operace s tím smí provádět.

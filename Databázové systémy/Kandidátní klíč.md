@@ -1,0 +1,1 @@
+Kandidátní klíč je sloupec, nebo více sloupců, na kterém/kterých závisí unikátnost řádku.

@@ -1,7 +1,7 @@
 # Parita funkce
 Parita funkce říká, jakým způsobem je funkce "symetrická".
 
-- Pokud je funkce osově souměrná podle osy y, je tzv. **sudá**
+- Pokud je funkce osově souměrná podle osy y, je tzv. **sudá** ^2b6cc5
 - Pokud je funkce středově souměrná podle počátku (0), je tzv. **lichá**
 - Pokud se funkce "opakuje", říkáme, že je **periodická**.
 
