@@ -1,6 +1,6 @@
 Kvantování signálu je proces, který hladiny signálu převede na konečný počet [[Co znamená diskrétní|diskrétních hodnot]]. Jinak řečeno, jedná se o diskretizace oboru hodnot signálu.
 
->**Kvantování spojitého signálu**
+>[!example] Kvantování spojitého signálu
 >
 >![[Quantized.signal.svg.png]]
 
@@ -21,6 +21,6 @@ Stejně jako u [[Vzorkování signálu|vzorkování]] platí [[Vzorkování sign
 
 Chyba kvantování (zaokrouhlení) se ve výsledném signálu projevuje jako **kvantizační šum**, který může zásadně ovlivnit kvalitu výstupního signálu.
 
->**Kvantizační šum**
+>[!example] Kvantizační šum
 >
 >![[Pasted image 20221130154701.png]]

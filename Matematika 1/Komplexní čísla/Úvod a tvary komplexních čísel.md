@@ -37,20 +37,17 @@ Komplexní čísla lze reprezentovat v několika tvarech, mezi kterými lze pře
 ### Algebraický tvar
 Nejzákladnějším tvarem je **algebraický tvar**, který nám říká velikosti jednotlivých složek. Píše se ve tvaru $a+b{j}$, kde $a$ je reálná složka a $bj$ je imaginární složka.
 
->$$a,b\in\mathbb{R}$$
->$$3+4j$$
-
->Příklad komplexního čísla reprezentovaného na grafu
+>[!example] Příklad komplexního čísla reprezentovaného na grafu
 >$\bar{A}=3+4j$
 >
 >![[Pasted image 20211013231805.png]]
 
 Pokud bychom chtěli zjistit vzdálenost od počátku souřadné soustavy, nebo-li "velikost" komplexního čísla, použijeme k tomu pythagorovu větu:
 
->$$|A|=\sqrt{3^2+4^2}$$
+$$\large|A|=\sqrt{3^2+4^2}$$
 
 Obecněji tedy zapsáno jako:
->$$|A|=\sqrt{a^2+b^2}$$
+$$\large|A|=\sqrt{a^2+b^2}$$
 
 ---
 ### Goniometrický tvar
@@ -58,13 +55,14 @@ Goniometrický tvar nám uchovává informaci o
 - vzdálenosti od počátku
 - a úhlu naklonění
 
->$$\bar{A}=(|A|\cdot\cos{\phi})+(|A|\cdot\sin{\phi})$$
+$$\large\bar{A}=(|A|\cdot\cos{\phi})+(|A|\cdot\sin{\phi})$$
 
->Příklad čísla prezentovaného v goniometrickém tvaru
+> [!example] Příklad čísla prezentovaného v goniometrickém tvaru
 >
 >![[Pasted image 20211013232352.png]]
 
->$$\begin{aligned} 
+> [!info] 
+> $$\begin{aligned} 
 >A_{RE }&= |A| \cdot \cos{\varphi} \\
 >A_{IM} &= |A| \cdot \sin{\varphi} \\ 
 >|A| &= \sqrt{A_{RE}^2+A_{IM}^2} \\
@@ -74,7 +72,7 @@ Goniometrický tvar nám uchovává informaci o
 ### Exponenciální tvar
 Exponenciální tvar má hodně blízko ke tvaru goniometrickému, ale používá Eulerova čísla k vyjádření úhlu a imaginární složky.
 
->$$\bar{A} = |A| \cdot e^{j \cdot \varphi}$$
+$$\large\bar{A} = |A| \cdot e^{j \cdot \varphi}$$
 
 ---
 Jak se s jednotlivými tvary pracuje a kdy je výhodné jaký použít se lze dočíst v dokumentu [[Operace s komplexními čísly]].

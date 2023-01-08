@@ -1,9 +1,9 @@
 **Jednotkový skok** $u[n]$ je druh signálu, který je definován jako
 $$\Large
-\begin{cases}
-	u[n] = 0 & \text{pro } n \lt 0 \\
+u[n] = \begin{cases}
+	0 & \text{pro } n \lt 0 \\
 \\
-	u[n] = 1 & \text{pro } n \ge 0
+	1 & \text{pro } n \ge 0
 \end{cases}
 $$
 

@@ -27,4 +27,4 @@ $$\large
 $$
 
 >[!info]
->$\log(a^x) = x\cdot\log(a)$
+>$\log(a^c) = c\cdot\log(a)$

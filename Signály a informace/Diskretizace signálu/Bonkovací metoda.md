@@ -1,0 +1,1 @@
+**Bonkovací** (též známa jako pongovací) metoda

@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "84156f9068fe25f7",
+        "id": "946dbd9ff443210a",
         "type": "tabs",
         "children": [
           {
-            "id": "2a26079cdab1f25e",
+            "id": "0f5b4441835502ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.55.md",
+                "file": "Algoritmizace a datové struktury/Abstraktní datové struktury/Datový typ.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "c0bbdccf498ecc65"
-          }
-        ]
-      },
-      {
-        "id": "bc6f3961a9aff1eb",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3c52c019d47102d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.55.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "c0bbdccf498ecc65"
+            }
           }
         ]
       }
@@ -68,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "logaritm",
+                "query": "jednotkový skok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.55.md",
+                "file": "Algoritmizace a datové struktury/Abstraktní datové struktury/Datový typ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2a26079cdab1f25e",
+  "active": "0f5b4441835502ee",
   "lastOpenFiles": [
-    "Matematika 1/Příklady/Příklad 4.34.md",
-    "Matematika 1/Příklady/Příklad 4.58.md",
-    "Matematika 1/Příklady/Příklad 4.57.md",
-    "Matematika 1/Příklady/Příklad 4.56.md",
-    "Matematika 1/Příklady/Příklad 4.55.md",
-    "Matematika 1/Příklady/Příklad 4.60.md",
-    "Matematika 1/Příklady/Příklad 4.59.md",
-    "Matematika 1/Příklady/Příklad 4.65.md",
-    "Matematika 1/Příklady/Příklad 4.64.md",
-    "Matematika 1/Příklady/Příklad 4.63.md"
+    "Algoritmizace a datové struktury/Okruhy na zkoušku.md",
+    "Signály a informace/Z-transformace/Nuly a póly.md",
+    "Signály a informace/Z-transformace/Přenosová funkce.md",
+    "Signály a informace/Příklady/Příklady na LTI systémy.md",
+    "Matematika 1/Komplexní čísla/Úvod a tvary komplexních čísel.md",
+    "Signály a informace/Příklady/Příklady na DFT.md",
+    "Signály a informace/Příklady/1.1.md",
+    "Signály a informace/Harmonické signály.md",
+    "Signály a informace/Fourierovy řady.md",
+    "Signály a informace/Číslicová frekvence.md"
   ]
 }

@@ -6,8 +6,7 @@
 
 $$\large
 \begin{aligned}
-	f_a &= f - kf_s \\
-	f_a &\in \left(-\frac{1}{2}f_s, +\frac{1}{2}f_s\right)
+	f_a &= \left|f - f_s\cdot\left\lfloor{\frac{2f+f_s}{2f_s}}\right\rfloor\right|
 \end{aligned}
 $$
 

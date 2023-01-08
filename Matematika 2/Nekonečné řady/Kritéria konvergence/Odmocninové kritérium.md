@@ -1,4 +1,3 @@
-# Odmocninové kritérium
 Odmocninové (neboli Cauchyho) kritérium je jedno z kritérií konvergence řady s nezápornými členy.
 
 >Řada $\sum_{n=1}^{\infty}a_n$ je řada s nezápornými členy.
