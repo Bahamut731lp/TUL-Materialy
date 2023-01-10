@@ -1,1 +1,0 @@
-Každý proces vytváří **hlavní vlákno**, což je 

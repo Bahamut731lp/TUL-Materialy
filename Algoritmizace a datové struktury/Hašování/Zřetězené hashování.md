@@ -1,0 +1,1 @@
+**Zřetězené [[Hashovací funkce|hashování]]** je mechanismus řešení kolizí, který na místa adres v hashovací tabulce přiřadí [[Seznam|lineární seznam]]. V případě kolize se prvek vloží na konec tohoto seznamu.

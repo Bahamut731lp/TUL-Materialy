@@ -25,4 +25,4 @@ public static void main (String[] args) {
 - `public` je [[Modifikátory přístupu|modifikátor přístupu]] označující, že je metoda [[Modifikátory přístupu#Veřejné konstrukce|veřejná]].
 - `static` je klíčové slovo označující, že je pro všechny [[Objekt|instance třídy]] je metoda stejná.
 - `void` je [[Datové typy a primitiva|datový typ]], který se používá v případě, že metoda nemá návratovou hodnotu
-- `String[] args` je [[Pole|pole]] vstupních argumentů, které mohou být uživatelem předány při spuštění programu.
+- `String[] args` je [[Algoritmizace a programování 1/Prostředky jazyka Java/Pole|pole]] vstupních argumentů, které mohou být uživatelem předány při spuštění programu.

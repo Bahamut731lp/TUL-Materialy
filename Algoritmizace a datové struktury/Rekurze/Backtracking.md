@@ -1,8 +1,5 @@
 Backtracking je metoda pro vytváření [[Algoritmizace a programování 1/Základy/Algoritmus|algoritmu]], který [[Brute Force|hrubou silou]] hledá taková řešení, která odpovídají našim požadavkům.
 
->[!tldr]
->Lorem ipsum dolor sit amet
-
 Backtracking se dá uplatnit na úlohy, na které jsou kladena jistá omezení. Pomocí [[Algoritmizace a datové struktury/Rekurze/Rekurze|rekurze]] vytváří [[Strom|strom]], kde každá větev reprezentuje proměnnou a každá úroveň reprezentuje řešení.
 
 Backtracking nám pak může pomoct nalézt:

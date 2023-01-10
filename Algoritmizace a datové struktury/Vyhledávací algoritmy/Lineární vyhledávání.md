@@ -1,0 +1,1 @@
+**Lineární vyhledávání** je algoritmus pro vyhledávání, kdy procházíme prohledávaný prostor, dokud nenalezneme hledaný klíč.
