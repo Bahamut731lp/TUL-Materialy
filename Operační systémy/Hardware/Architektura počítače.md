@@ -1,14 +1,11 @@
 Za počítač považujeme systém, který se řídí nějakým teoretickým modelem hardware a dodržuje předem danou architekturu.
 
-Dnes nejrozšířenější architekturou, která nebyla pořádně překonána, je [[#Von Neumannova architektura]], potamžo **[[#Harvardská architektura]]**
-
-Tuto myšlenku poprvé zformulovat *John Von Neumann* a podle něho se nazývá .
-
+Dnes nejrozšířenější architekturou, která nebyla pořádně překonána, je [[#Von Neumannova architektura]], potamžo [[#Harvardská architektura]]
 
 ## Von Neumannova architektura
 **Von Neumannova architektura** je architektura počítače, ve které je počítač řízen programem v paměti.
 
->Schéma Von Neumannovy architektury
+>[!example] Schéma Von Neumannovy architektury
 >![[Pasted image 20221031225843.png]]
 
 Podle Von Neumannovy archiktetury se počítač skládá z
@@ -21,7 +18,7 @@ Podle Von Neumannovy archiktetury se počítač skládá z
 ## Harvardská architektura
 Harvardská architektura je obdoba [[#Von Neumannova architektura|Von Neumannovy architektury]], ve které je navíc oddělena paměť programu od paměti dat.
 
-> Schéma Harvardské architektury
+> [!example] Schéma Harvardské architektury
 > ![[Pasted image 20221031230834.png]]
 
 K oddělení paměti programu došlo z důvodu, že ve sdílené paměti bylo snadé chybou programátora poškodit nejenom data, ale i program jako takový. 

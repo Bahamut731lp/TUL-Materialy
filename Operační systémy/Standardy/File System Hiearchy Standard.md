@@ -1,0 +1,1 @@
+**File System Hierarchy Standard** je standard, který určuje rozdělení souborového systému do základních adresářů, jejich obsah a další strukturování.

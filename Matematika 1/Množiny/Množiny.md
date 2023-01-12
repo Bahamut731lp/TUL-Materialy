@@ -1,7 +1,7 @@
 # Množiny
 Množina je **soubor určitých prvků** se společnou vlastností. Běžně je značíme velkými písmeny ($M, N, P, ...$) a jejich prvky písmeny malými - podobně jako u [[Matice|matic]].
 
-> **TL,DR:**
+> [!tldr]
 > - Množina je soubor prvků
 > - Definovat je můžeme výčtem nebo vlastností
 > - Nezáleží na pořadí ani počtu výskytů prvků

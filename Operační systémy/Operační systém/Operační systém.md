@@ -9,4 +9,3 @@ Mezi nejzákladnější kompetence operačního systému patří
 - Správa [[API|programátorských rozhraní]].
 
 Systém se následně může skládat z dalších systémů, například pro správu identit, aktualizací či pokročilou detekci chyb.
-
