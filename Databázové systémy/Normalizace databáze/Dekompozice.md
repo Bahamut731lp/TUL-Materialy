@@ -1,0 +1,1 @@
+Proces **dekompozice** je rozklad větších [[Relační datový model|relací]] na menší relace, přičemž se nemění množství zachycených informací.

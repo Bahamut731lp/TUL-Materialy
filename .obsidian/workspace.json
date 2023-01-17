@@ -4,52 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b11d087ceac5bd69",
+        "id": "dc0c5b9ca4f41489",
         "type": "tabs",
         "children": [
           {
-            "id": "ec4b867c726b9a0f",
+            "id": "1dd99c311e925f5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operační systémy/Hardware/Procesor.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "42f9e4cf12ac812c"
-          },
-          {
-            "id": "bb52d7251025eeb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operační systémy/Operační systém/Správa zařízení.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "45203c89a4220563",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "3568e41eb9f0ed0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operační systémy/Hardware/Procesor.md",
+                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "42f9e4cf12ac812c"
+            }
           }
         ]
       }
@@ -109,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operační systémy/Hardware/Procesor.md",
+                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ec4b867c726b9a0f",
+  "active": "1dd99c311e925f5c",
   "lastOpenFiles": [
-    "Operační systémy/Operační systém/Správa paměti.md",
-    "Operační systémy/Operační systém/Správa zařízení.md",
-    "Operační systémy/Okruhy ke zkoušce.md",
-    "Operační systémy/Hardware/Abstrakce hardware.md",
-    "Operační systémy/Hardware/Architektura počítače.md",
-    "Operační systémy/Hardware/Procesor.md",
-    "Operační systémy/Hardware/Přerušení.md",
-    "Operační systémy/Hardware/Registr.md",
-    "Operační systémy/Hardware/Zařízení.md",
-    "Operační systémy/Operační systém/API.md"
+    "Databázové systémy/Cvičení/Filmy/Řešení.md",
+    "Databázové systémy/Relační algebra/Relační datový model.md",
+    "Databázové systémy/Otázky ke zkoušce.md",
+    "Databázové systémy/Návrh modelu/ER Diagram.md",
+    "Databázové systémy/Návrh modelu/Konceptuální model.md",
+    "Databázové systémy/Návrh modelu/Návrh relačního modelu.md",
+    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do šířky.md",
+    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do hlouby.md",
+    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Vyhledávání.md",
+    "Matematika 1/Vlastnosti matematických objektů/Omezenost.md"
   ]
 }

@@ -10,10 +10,9 @@ T_2 &= f(x,y) + \frac{df(x,y)(x-x_0, y - y_0)}{1!} +
 
 \end{aligned}$$
 
-\frac{\partial^2{f}}{\partial{x^2}} &= e^{xy+x}\cdot{x} \frac{} \\
+
 
 $$\Large\begin{aligned}
-
 \frac{\partial{f}}{\partial{x}} &= e^{xy+x}\cdot(y+1) - \frac{1}{1+x^2}\cdot2+cos(xy)\\
 \frac{\partial{f}}{\partial{y}} &= e^{xy+x}\cdot{x} \\
 

@@ -1,4 +1,3 @@
-# Polynom
 Polynom ***(mnohočlen)*** je výraz, který se skládá jenom ze sčítání, odčítání, násobení a umocňování [[Číselné množiny#Celá čísla|celými kladnými čísly]].
 
 > Příklad polynomu:

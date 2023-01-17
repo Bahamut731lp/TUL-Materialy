@@ -1,24 +1,52 @@
 Normální formy jsou pravidla, podle kterých určujeme, zda je databáze normalizovaná nebo ne.
+Pokud relace nesplňují normální formu, [[Dekompozice|dekomponují]] se na menší relace, které už pravidlo splňují.
 
-## Nenormalizovaná forma (UNF)
-Schéma relace je v **nulté normální formě** právě tehdy, když na něj nebyla doposud aplikována žádná normální forma.
+>[!error] První normální forma
+>Relace je v první normální formě, pokud:
+>- Každý atribut obsahuje jenom atomické hodnoty
+>- Relace neobsahuje vícehodnotové atributy
+>- Všechny $n$-tice mají stejný počet atributů
 
-## Nultá normální forma (0NF)
-Schéma relace je v **nulté normální formě** právě tehdy, když existuje alespoň jeden atribut, který obsahuje více než jednu hodnotu
+>[!example] Příklad
+>Uvažujme relaci $Studenti(RC, jmeno, prijmeni, adresa, oceneni)$.
+>- Adresa může být složena z vícero informací (ulice, PSČ, číslo domu, město, ...)
+>- Ocenění může být vícehodnotové
+>
+>Aby byla relace v **1NF**, lze jí upravit takto:
+>- $Studenti(RC, jmeno, prijmeni, ulice, mesto, psc)$
+>- $Oceneni(RC, oceneni)$
 
-## První normální forma (1NF, Atomicita)
-Schéma relace je v **první normální formě** právě tehdy, když jsou všechny atributy **atomické**, neboli je již nelze rozložit na menší atributy.
+>[!warning] Druhá normální forma
+>Relace je v druhé normální formě, pokud:
+>- Je v **první normální formě**
+>- Každý neklíčový atribut je [[Funkční závislost|funkčně závislý]] na celém [[Klíče|klíči]]
 
+>[!example] Příklad
+>Uvažujme relaci $Prihlasky(RC, jmeno, prijmeni, univerzita, adresa\_univerzity)$.
+>- Adresa univerzity není funkčně závislá na klíči $\{RC, univerzita\}$
+>- Jméno a příjmení také nejsou funkčně závislé na klíči
+>
+>Aby byla relace v **2NF**, lze jí upravit takto:
+>- $Prihlasky(RC, univerzita)$
+>- $Lide(RC, jmeno, prijmeni)$
+>- $Univerzity(univerzita, adresa\_univerzity)$
 
-## Druhá normální forma (2NF, Částečná závislost)
-Schéma relace je v **druhé normální formě** právě tehdy, když je splněna 1NF, a každý neklíčový atribut je funkčně závislý na [[Kandidátní klíč|kandidátním klíči]].
+>[!success] Třetí normální forma
+>Relace je v třetí normální formě, pokud:
+>- Je v **druhé normální formě**
+>- Každý neklíčový atribut je závislý pouze na celém [[Klíče|klíči]]
 
-Jinak řečeno, nesmí existovat částečná závislost na [[Kandidátní klíč|kandidátním klíči]]. Buď je sloupec závislý na celém kandidátním klíči, nebo tabulka nesplňuje 2NF. A ještě jinak řečeno, všechno musí přímo souviset s primárním/kandidátním klíčem.
+>[!example] Příklad
+>Uvažujme relaci $Prihlasky(RC, jmeno, prijmeni, univerzita, adresa\_univerzity)$.
+>- Adresa univerzity není funkčně závislá na klíči $\{RC, univerzita\}$
+>- Jméno a příjmení také nejsou funkčně závislé na klíči
+>
+>Aby byla relace v **2NF**, lze jí upravit takto:
+>- $Prihlasky(RC, univerzita)$
+>- $Lide(RC, jmeno, prijmeni)$
+>- $Univerzity(univerzita, adresa\_univerzity)$
 
-## Třetí normální forma (3NF, Tranzitivní závislost)
-Schéma relace je v **třetí normální formě** právě tehdy, když je splněna 3NF a tabulka neobsahuje [[Tranzitivnost|tranzitivní]] závislosti. Jinak řečeno, neexistuje atribut, který by byl závislý na jiném atributu, který není [[Kandidátní klíč|kandidátním klíčem]].
-
-Způsob, jakým lze třetí normální formu uspokojit je dekompozice tabulky, díky čemuž dosáhneme odstranění nalezené tranzitivní závislosti.
-
-##
-relace R je v BCNF tehdy a jen tehdy, když každý determinant (levá strana) funkční závislosti v relaci R je zároveň [[Kandidátní klíč|kandidátním klíčem]] relace R.
+>[!tip] Boyce-Coddova normální forma
+>Relace je v Boyce-Coddově normální formě, pokud
+>- Je v **třetí normální formě**
+>- Pravidla **třetí normální formy** platí pro všechny kandidátní klíče

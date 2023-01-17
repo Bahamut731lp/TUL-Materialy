@@ -1,4 +1,3 @@
-# Podmíněné větvení
 Podmíněné větvení programu je způsob, jak větvit (rozdělit běh) program na vícero částí podle nějaké vyhodnocené podmínky.
 
 V javě jsou k tomu vyhrazena klíčová slova `if`, `else if` a `else`.

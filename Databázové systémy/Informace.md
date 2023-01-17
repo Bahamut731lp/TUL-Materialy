@@ -1,1 +1,0 @@
-Informace jsou [[Data|data]], která navíc mají přiřazený konkrétní význam. Časti vzniká prováděním [[Uzavřenost množiny na operaci|operací nad množinou dat]].

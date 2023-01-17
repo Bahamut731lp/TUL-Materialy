@@ -1,0 +1,1 @@
+**Data Query Language** je je [[Množiny|množina]] [[SQL|SQL příkazů]], které slouží k vybírání dat z [[Databázový objekt|databázových objektů]].

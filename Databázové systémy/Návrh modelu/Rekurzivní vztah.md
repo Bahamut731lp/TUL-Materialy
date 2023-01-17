@@ -1,0 +1,1 @@
+**Rekurzivní vztah** je [[Relační datový model|relace]], ve které je cizí klíč zároveň primárním klíčem té samé entity.

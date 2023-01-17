@@ -1,1 +1,0 @@
-Data jsou syntaktická reprezentace skutečnosti, která nemá přiřazený žádný konkrétní význam.

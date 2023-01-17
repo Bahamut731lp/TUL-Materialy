@@ -1,4 +1,3 @@
-# Algoritmizace
 Postup, kterým vytváříme [[Algoritmizace a programování 1/Základy/Algoritmus|algoritmus]] pro řešení daného problému ($Algoritmizace \rightarrow Algoritmus$).
 
 >[!tldr]

@@ -1,0 +1,1 @@
+**Ternární vztah** je vztah mezi třemi entitami.
