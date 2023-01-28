@@ -1,6 +1,13 @@
 Normální formy jsou pravidla, podle kterých určujeme, zda je databáze normalizovaná nebo ne.
 Pokud relace nesplňují normální formu, [[Dekompozice|dekomponují]] se na menší relace, které už pravidlo splňují.
 
+>[!tldr]
+>- **1NF**: 
+>	- Co hodnota to jedna věc
+>	- každý řádek musí mít stejný počet sloupců
+>- **2NF**: Každý sloupec musí být (alespoň nepřímo) závislý na celém klíči
+>- **3NF**: Každý sloupec musí být přímo závislý na celém klíči
+
 >[!error] První normální forma
 >Relace je v první normální formě, pokud:
 >- Každý atribut obsahuje jenom atomické hodnoty
@@ -20,6 +27,7 @@ Pokud relace nesplňují normální formu, [[Dekompozice|dekomponují]] se na me
 >Relace je v druhé normální formě, pokud:
 >- Je v **první normální formě**
 >- Každý neklíčový atribut je [[Funkční závislost|funkčně závislý]] na celém [[Klíče|klíči]]
+>- Pro druhou normální formu postačí i [[Tranzitivnost|tranzitivní]] závislost
 
 >[!example] Příklad
 >Uvažujme relaci $Prihlasky(RC, jmeno, prijmeni, univerzita, adresa\_univerzity)$.
@@ -34,7 +42,8 @@ Pokud relace nesplňují normální formu, [[Dekompozice|dekomponují]] se na me
 >[!success] Třetí normální forma
 >Relace je v třetí normální formě, pokud:
 >- Je v **druhé normální formě**
->- Každý neklíčový atribut je závislý pouze na celém [[Klíče|klíči]]
+>- Každý neklíčový atribut je závislý pouze na [[Klíče|klíči]]
+>- Nesmí existovat [[Tranzitivnost|tranzitivní]] závislosti
 
 >[!example] Příklad
 >Uvažujme relaci $Prihlasky(RC, jmeno, prijmeni, univerzita, adresa\_univerzity)$.

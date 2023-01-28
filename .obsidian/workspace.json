@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0c5b9ca4f41489",
+        "id": "fae093eff65f685e",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd99c311e925f5c",
+            "id": "e4fc5b42a7cac11f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
+                "file": "Signály a informace/Diskretizace signálu/Vzorkování signálu.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "1e20ef72a6a7fdf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "f2830b092c31eef2"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a9c4022d0c2fc706",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d6ce83efa29c380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "f2830b092c31eef2"
           }
         ]
       }
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +137,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1dd99c311e925f5c",
+  "active": "1e20ef72a6a7fdf5",
   "lastOpenFiles": [
-    "Databázové systémy/Cvičení/Filmy/Řešení.md",
-    "Databázové systémy/Relační algebra/Relační datový model.md",
+    "Signály a informace/Diskretizace signálu/Vzorkování signálu.md",
+    "Signály a informace/Diskretizace signálu/Kvantování signálu.md",
+    "Signály a informace/Diskretizace signálu/Číslicová frekvence.md",
+    "Signály a informace/Diskretizace signálu/Aliasing.md",
     "Databázové systémy/Otázky ke zkoušce.md",
-    "Databázové systémy/Návrh modelu/ER Diagram.md",
-    "Databázové systémy/Návrh modelu/Konceptuální model.md",
-    "Databázové systémy/Návrh modelu/Návrh relačního modelu.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do šířky.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do hlouby.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Vyhledávání.md",
-    "Matematika 1/Vlastnosti matematických objektů/Omezenost.md"
+    "Algoritmizace a datové struktury/Hašování/Hashovací funkce.md",
+    "Databázové systémy/Transakce/Transakce.md",
+    "Algoritmizace a datové struktury/Datový typ.md",
+    "Algoritmizace a datové struktury/Algoritmy a složitost/FLOPS.md",
+    "Signály a informace/Fourierovy řady.md"
   ]
 }

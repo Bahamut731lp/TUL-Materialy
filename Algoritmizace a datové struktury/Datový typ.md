@@ -35,7 +35,8 @@ Ordinální datové typy jsou takové typy, které lze zobrazit na množině cel
 Strukturovaný [[Datový typ|datový typ]] je takový typ, který seskupuje [[#Jednoduchý DT|jednoduché datové typy]]. Tyto DT poskytují prostředky pro práci s jednotlivými prvky.
 
 > [!info] Pole
-> 
+> viz [[Algoritmizace a datové struktury/Strukturované datové typy/Pole]]
 
 
 ## Abstraktní DT
+viz [[Abstraktní datový typ]]
