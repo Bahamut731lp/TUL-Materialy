@@ -1,6 +1,3 @@
-# Lokální extrémy
-
-
 Hodnota $P(c)$ je [[Okolí bodu|prstencové okolí]] bodu $c$.
 
 |Vztah|Extrém|Podmínky|

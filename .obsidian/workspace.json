@@ -4,53 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "fae093eff65f685e",
+        "id": "63e6c6936cc1222d",
         "type": "tabs",
         "children": [
           {
-            "id": "e4fc5b42a7cac11f",
+            "id": "504fb858582cf1f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Signály a informace/Diskretizace signálu/Vzorkování signálu.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1e20ef72a6a7fdf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "Matematika 1/Příklady/Příklad 4.46.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "f2830b092c31eef2"
+            "group": "41e2eb5b8632cb47"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a9c4022d0c2fc706",
+        "id": "42cfe71bffee053a",
         "type": "tabs",
         "children": [
           {
-            "id": "2d6ce83efa29c380",
+            "id": "df711642ba901cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Matematika 1/Příklady/Příklad 4.46.md",
                 "mode": "preview",
                 "source": true
               }
             },
-            "group": "f2830b092c31eef2"
+            "group": "41e2eb5b8632cb47"
           }
         ]
       }
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Matematika 1/Příklady/Příklad 4.46.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,17 +124,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1e20ef72a6a7fdf5",
+  "active": "504fb858582cf1f7",
   "lastOpenFiles": [
-    "Signály a informace/Diskretizace signálu/Vzorkování signálu.md",
-    "Signály a informace/Diskretizace signálu/Kvantování signálu.md",
-    "Signály a informace/Diskretizace signálu/Číslicová frekvence.md",
-    "Signály a informace/Diskretizace signálu/Aliasing.md",
-    "Databázové systémy/Otázky ke zkoušce.md",
-    "Algoritmizace a datové struktury/Hašování/Hashovací funkce.md",
-    "Databázové systémy/Transakce/Transakce.md",
-    "Algoritmizace a datové struktury/Datový typ.md",
-    "Algoritmizace a datové struktury/Algoritmy a složitost/FLOPS.md",
-    "Signály a informace/Fourierovy řady.md"
+    "Matematika 1/Příklady/Příklad 4.48.md",
+    "Matematika 1/Příklady/Příklad 4.46.md",
+    "Obrázky/priklad_46_funkce_f.png",
+    "Matematika 1/Příklady/Příklad 4.50.md",
+    "Matematika 1/Příklady/Příklad 4.49.md",
+    "Matematika 1/Příklady/Příklad 4.54.md",
+    "Matematika 1/Příklady/Příklad 4.55.md",
+    "Matematika 1/Příklady/Příklad 4.56.md",
+    "Matematika 1/Příklady/Příklad 4.58.md",
+    "Matematika 1/Příklady/Příklad 4.59.md"
   ]
 }
