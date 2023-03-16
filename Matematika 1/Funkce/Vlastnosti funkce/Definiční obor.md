@@ -12,7 +12,7 @@ Abychom věděli, co za čísla můžeme do funkce dosadit, tak si vytváříme 
 -	Jedná se o [[Množiny|množinu]] všech čísel, které můžeme dosadit jako [[Úvod do funkcí#Základní pojmy k funkcím|argument funkce]].
 -	Definiční obor funkce $f$ značíme jako $D(f)$[^1]
 
->Příklad:
+>[!example]
 >$f: y=x \rightarrow D(f)=\mathbb{R}$
 >$g: y=\frac{1}{x} \rightarrow D(f)=\mathbb{R}\setminus\set{0}$
 

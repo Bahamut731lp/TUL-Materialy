@@ -1,5 +1,5 @@
-# Příklad 1.1
-**Najděte inverzní funkci k funkci $\large f(x) = \Huge\frac{2-\text{arccotg}(x-1)}{5}$ a určete definiční obory a obory hodnot tak, aby na těchto oborech byly tyto funkce navzájem inverzní.**
+>[!example] Najděte inverzní funkci k funkci $f(x)$ a určete definiční obory a obory hodnot tak, aby na těchto oborech byly tyto funkce navzájem inverzní.
+>$$\large f(x) = \frac{2-\text{arccotg}(x-1)}{5}$$
 
 ## Hledání inverzní funkce
 $$\large\begin{aligned}

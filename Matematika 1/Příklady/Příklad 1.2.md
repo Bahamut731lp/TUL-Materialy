@@ -1,5 +1,5 @@
-# Příklad 1.2
-**Najděte inverzní funkci k funkci $\large f(x) = \Huge\frac{2-5\sin{(2x-1)}}{2}$ a určete definiční obory a obory hodnot tak, aby na těchto oborech byly tyto funkce navzájem inverzní.**
+
+**Najděte inverzní funkci k funkci $f(x) = \frac{2-5\sin{(2x-1)}}{2}$ a určete definiční obory a obory hodnot tak, aby na těchto oborech byly tyto funkce navzájem inverzní.**
 
 ## Hledání inverzní funkce
 $$\large\begin{aligned}
