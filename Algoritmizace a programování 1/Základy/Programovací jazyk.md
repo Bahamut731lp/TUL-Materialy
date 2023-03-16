@@ -1,7 +1,6 @@
-# Programovací jazyk
 Programovací jazyk je prostředek, kterým zapisujeme jednotlivé [[Algoritmizace a programování 1/Základy/Algoritmus|algoritmy]].
 
->**TL,DR**:
+>[!example] TL,DR:
 >- Programovací jazyk slouží k zápisu algoritmů
 >- Každý programovací jazyk má svojí abecedu, syntax a sémantiku
 >- Jazyky se dělí podle svého účelu, [[Abstrakce|úrovně abstrakce]], druhu překladu a dalších vlastností

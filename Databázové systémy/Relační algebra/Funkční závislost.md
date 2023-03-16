@@ -1,5 +1,9 @@
 **Funkční závislost** popisuje vztah, resp. [[Zobrazení|zobrazení]], mezi [[Relační datový model|atributy]] v [[Relační datový model|relaci]] a určuje jejich integritní omezení.
 
+>[!tldr]
+>- Funkční závislosti zobecňují koncept [[Klíče|klíče]]
+>- 
+
 >[!example] Příklad
 >Pokud máme relaci $R(A,B)$, kde $A$ a $B$ jsou nějaké atributy, pak funkční závislost $A\to B$ znamená, že:
 >- $A$ jednoznačně určuje $B$

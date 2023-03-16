@@ -4,20 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "dc0c5b9ca4f41489",
+        "id": "2667896293e68b6b",
         "type": "tabs",
         "children": [
           {
-            "id": "1dd99c311e925f5c",
+            "id": "d163e13980834161",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
+                "file": "Úvod do statistické analýzy/Matematická statistika/Statistické proměnné.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "8f176a61ef343c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databáze pro big data/NoSQL databáze.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "ed888e2be290c286"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9686caf6d48be67f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf37d53d0ae688e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Databáze pro big data/NoSQL databáze.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "ed888e2be290c286"
           }
         ]
       }
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databázové systémy/Cvičení/Filmy/Zadání.md",
+                "file": "Databáze pro big data/NoSQL databáze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,17 +137,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1dd99c311e925f5c",
+  "active": "cf37d53d0ae688e7",
   "lastOpenFiles": [
-    "Databázové systémy/Cvičení/Filmy/Řešení.md",
-    "Databázové systémy/Relační algebra/Relační datový model.md",
-    "Databázové systémy/Otázky ke zkoušce.md",
-    "Databázové systémy/Návrh modelu/ER Diagram.md",
-    "Databázové systémy/Návrh modelu/Konceptuální model.md",
-    "Databázové systémy/Návrh modelu/Návrh relačního modelu.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do šířky.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Hledání do hlouby.md",
-    "Algoritmizace a datové struktury/Vyhledávací algoritmy/Vyhledávání.md",
-    "Matematika 1/Vlastnosti matematických objektů/Omezenost.md"
+    "Databáze pro big data/Big Data.md",
+    "Databáze pro big data/Škálování.md",
+    "Úvod do statistické analýzy/Matematická statistika/Statistické proměnné.md",
+    "Databáze pro big data/NoSQL databáze.md",
+    "Databáze pro big data",
+    "Úvod do statistické analýzy/Matematická statistika/Výběrové šetření.md",
+    "Číslicová technika/Booleova algebra/Booleovský výraz.md",
+    "Úvod do statistické analýzy/Matematická statistika/Populace.md",
+    "Programování v jazyce Python/Type Hinting.md",
+    "Základy konstruování/Řezy a průřezy.md",
+    "Základy konstruování",
+    "Programování v jazyce Python/Duck typing.md",
+    "Softwarové inženýrství/Zadání semestrální práce.md",
+    "Úvod do statistické analýzy/Náhodná veličina/Distribuční funkce.md",
+    "Úvod do statistické analýzy/Náhodná veličina/Náhodná veličina.md",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Bayesův vzorec.md",
+    "Úvod do statistické analýzy/Náhodná veličina",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Věta o úplné pravděpodobnosti.md",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Pravděpodobnost.md",
+    "Obrázky/Pasted image 20230307105427.png",
+    "Obrázky/Pasted image 20230307105158.png",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Pokus.md",
+    "Obrázky/Pasted image 20230307104735.png",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Nezávislost pokusu.md",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti/Jevy.md",
+    "Programování v jazyce Python/Charakteristiky jazyka.md",
+    "Algoritmizace a programování 1/Syntaxe/Vyhrazená slova.md",
+    "Softwarové inženýrství/Sémantické verzování.md",
+    "Softwarové inženýrství",
+    "Algoritmizace a programování 1/Základy/Programovací jazyk.md",
+    "Algoritmizace a programování 1/Syntaxe/Programovací paradigma.md",
+    "Algoritmizace a programování 1/Skládání programu/Interpretovaný jazyk.md",
+    "Algoritmizace a programování 1/Základy/Programový kontext.md",
+    "Programování v jazyce Python",
+    "Úvod do statistické analýzy/Matematická statistika",
+    "Úvod do statistické analýzy/Teorie pravděpodobnosti",
+    "Úvod do statistické analýzy"
   ]
 }

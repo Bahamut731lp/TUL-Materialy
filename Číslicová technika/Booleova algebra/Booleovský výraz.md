@@ -1,4 +1,3 @@
-# Booleovský výraz
 Výraz představující logickou funkci. Každou funkce lze popsat několika ekvivalentními výrazy.
 
 |Termín|Popis|
@@ -9,7 +8,7 @@ Výraz představující logickou funkci. Každou funkce lze popsat několika ekv
 |**Minterm**|P-Term obsahující všechny nezávislé proměnné|
 |**Maxterm**|S-Term obsahující všechny nezávislé proměnné|
 
->**Rozdělení termů:**
+>[!quote] **Rozdělení termů:**
 >
 >![[terms.drawio.png]]
 
