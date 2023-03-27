@@ -1,4 +1,3 @@
-# Cheatsheet na test 1
 
 ## Obor konvergence mocninné řady
 Vytkněte, co se dá (hlavně konstanty a exponenty):

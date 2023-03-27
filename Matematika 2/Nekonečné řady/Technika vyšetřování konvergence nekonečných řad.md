@@ -1,11 +1,10 @@
-# Technika vyšetřování konvergence nekonečných řad
 Tento dokument se snaží shrnout postup, jakým lze vyšetřovat konvergenci řady.
 
 
 ## Ověření nutné podmínky konvergence řady.
 Jako první by se měla ověřit [[Nutná podmínka konvergence]], která nám dá vodítko k tomu, zda má vůbec smysl řadu vyšetřovat.
 
->**Nutná podmínka konvergence řady:**
+>[!quote] [[Nutná podmínka|Nutná podmínka]] konvergence řady:
 >Řada $\sum_{n=1}^{\infty}a_n$ může konvergovat jen a pouze, když je $\lim_{n\to\infty}a_n = 0$
 
 Pokud limita výjde nula, můžeme pokračovat s vyšetřováním. Pokud výjde jinak, píšeme, že je řada divergentní a máme hotovo.

@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "63e6c6936cc1222d",
+        "id": "1d614dc9d5cbdb7f",
         "type": "tabs",
         "children": [
           {
-            "id": "504fb858582cf1f7",
+            "id": "93df0cba9b7ebb32",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.46.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "41e2eb5b8632cb47"
-          }
-        ]
-      },
-      {
-        "id": "42cfe71bffee053a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "df711642ba901cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.46.md",
+                "file": "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
                 "mode": "preview",
                 "source": true
               }
-            },
-            "group": "41e2eb5b8632cb47"
+            }
           }
         ]
       }
@@ -81,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 346.5
   },
   "right": {
     "id": "46c13f6b2ae68ad7",
@@ -97,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 1/Příklady/Příklad 4.46.md",
+                "file": "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +104,23 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "504fb858582cf1f7",
+  "active": "93df0cba9b7ebb32",
   "lastOpenFiles": [
-    "Matematika 1/Příklady/Příklad 4.48.md",
-    "Matematika 1/Příklady/Příklad 4.46.md",
-    "Obrázky/priklad_46_funkce_f.png",
-    "Matematika 1/Příklady/Příklad 4.50.md",
-    "Matematika 1/Příklady/Příklad 4.49.md",
-    "Matematika 1/Příklady/Příklad 4.54.md",
-    "Matematika 1/Příklady/Příklad 4.55.md",
-    "Matematika 1/Příklady/Příklad 4.56.md",
-    "Matematika 1/Příklady/Příklad 4.58.md",
-    "Matematika 1/Příklady/Příklad 4.59.md"
+    "Matematika 2/Řešené příklady/Příklad 1.1.md",
+    "Matematika 2/Řešené příklady/Příklad 1.6.md",
+    "Matematika 2/Řešené příklady/Příklad 1.2.md",
+    "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
+    "Matematika 2/Nekonečné řady/Kritéria konvergence/Integrální kritérium.md",
+    "Matematika 2/Nekonečné řady/Častečné součty.md",
+    "Matematika 2/Nekonečné řady/Nutná podmínka konvergence.md",
+    "Matematika 2/Nekonečné řady/Technika vyšetřování konvergence nekonečných řad.md",
+    "Matematika 2/Nekonečné řady/Kritéria konvergence/Leibnitzovo kritérium.md",
+    "Matematika 2/Nekonečné řady/Kritéria konvergence/Podílové kritérium.md",
+    "Matematika 2/Nekonečné řady/Kritéria konvergence/Srovnávací kritérium.md",
+    "Matematika 2/Řešené příklady/Příklad 3.1.md",
+    "Matematika 2/Řešené příklady/Příklad 7.2.md",
+    "Matematika 2/Nekonečné řady/Kritéria konvergence/Odmocninové kritérium.md",
+    "Matematika 2/Nekonečné řady/Podmínky konvergence.md",
+    "Matematika 1/Příklady/Příklad 4.46.md"
   ]
 }
