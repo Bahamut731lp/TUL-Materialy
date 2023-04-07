@@ -13,11 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
+                "file": "Úvod do diskrétní matematiky/Teorie grafů/Tah.md",
                 "mode": "preview",
                 "source": true
               }
             }
+          },
+          {
+            "id": "5205b082c4eddc91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "d2269bfe632ef3d8"
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "f3d2e854d594f639",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cab6f84641f8243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "d2269bfe632ef3d8"
           }
         ]
       }
@@ -77,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
+                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +137,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "93df0cba9b7ebb32",
+  "active": "0cab6f84641f8243",
   "lastOpenFiles": [
+    "Úvod do diskrétní matematiky/Teorie grafů/Tah.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy",
+    "Úvod do diskrétní matematiky/Teorie grafů/Tranzitivnost.md",
+    "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský graf.md",
+    "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
     "Matematika 2/Řešené příklady/Příklad 1.1.md",
     "Matematika 2/Řešené příklady/Příklad 1.6.md",
     "Matematika 2/Řešené příklady/Příklad 1.2.md",
-    "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Integrální kritérium.md",
     "Matematika 2/Nekonečné řady/Častečné součty.md",
     "Matematika 2/Nekonečné řady/Nutná podmínka konvergence.md",
