@@ -26,11 +26,22 @@ $$\Large \lim_{x\to\infty}f(x, k(x-x_0)+y_0)$$
 Popř. se zkuste přiblížit po vhodné mocnině, či dokonce odmocnině.
 
 ## Derivace ve směru
-Výpočtěte derivace ve směru jako (skalární) součin vektoru gradientu a vektoru koeficientů směrového vektoru:
+- Výpočtěte derivace ve směru jako (skalární) součin vektoru gradientu a vektoru koeficientů směrového vektoru:
 $$\Large\nabla{f}\cdot\vec{v}$$
 
-Vypočtěte [[Gradient]]:
+- Vypočtěte [[Gradient]]:
 $$\Large\nabla{f} = (f_x, f_{x_1}, f_{x_2}, ...)$$
+
+- Vypočtěte hodnotu gradientu v zadaném bodě
+$$\Large\nabla{f}(x, x_1, x_2, ...)$$
+
+- Vypočtěte délku směrového vektoru
+$$\Large|\vec{v}| = \sqrt{x^2 + (x_1)^2 + (x_2)^2 +\; ...}$$
+
+- Normalizujte směrový vektor
+$$\Large||\vec{v}|| = \left(\frac{v_1}{|\vec{v}|}, \frac{v_2}{|\vec{v}|},\;...\right)$$
+- Vypočtěte [[Skalární součin]] normalizovaného směrového vektoru gradientu v zadaném bodě.
+$$\Large ||\vec{v}|| \cdot \nabla{f}(x, x_1, x_2, ...)$$
 
 ## Tečná rovinna
 $$\Large \tau: f(\vec{v_0})+\nabla{f}(\vec{v_0})\cdot(\vec{v}-\vec{v_0})$$

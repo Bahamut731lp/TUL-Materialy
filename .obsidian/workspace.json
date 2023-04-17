@@ -4,53 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "1d614dc9d5cbdb7f",
+        "id": "dcd2c522133e2dad",
         "type": "tabs",
         "children": [
           {
-            "id": "93df0cba9b7ebb32",
+            "id": "029d8f5541bcd639",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Úvod do diskrétní matematiky/Teorie grafů/Tah.md",
+                "file": "Matematika 2/Řešené příklady/Příklad 3.1.md",
                 "mode": "preview",
                 "source": true
               }
             }
-          },
-          {
-            "id": "5205b082c4eddc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "d2269bfe632ef3d8"
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "f3d2e854d594f639",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0cab6f84641f8243",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "d2269bfe632ef3d8"
           }
         ]
       }
@@ -94,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5
+    "width": 226.5
   },
   "right": {
     "id": "46c13f6b2ae68ad7",
@@ -110,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
+                "file": "Matematika 2/Řešené příklady/Příklad 3.1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,17 +104,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0cab6f84641f8243",
+  "active": "4ea98e9bc7b7fdb0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Matematika 2/Řešené příklady/Příklad 1.2.md",
+    "Matematika 2/Řešené příklady/Příklad 1.6.md",
+    "Matematika 2/Řešené příklady/Příklad 3.1.md",
+    "Matematika 2/Řešené příklady/Příklad 7.2.md",
+    "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
     "Úvod do diskrétní matematiky/Teorie grafů/Tah.md",
+    "README.md",
     "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský tah.md",
     "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy",
     "Úvod do diskrétní matematiky/Teorie grafů/Tranzitivnost.md",
     "Úvod do diskrétní matematiky/Teorie grafů/Eulerovské grafy/Eulerovský graf.md",
-    "Matematika 2/Řešené příklady/Cheatsheet na test 1.md",
     "Matematika 2/Řešené příklady/Příklad 1.1.md",
-    "Matematika 2/Řešené příklady/Příklad 1.6.md",
-    "Matematika 2/Řešené příklady/Příklad 1.2.md",
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Integrální kritérium.md",
     "Matematika 2/Nekonečné řady/Častečné součty.md",
     "Matematika 2/Nekonečné řady/Nutná podmínka konvergence.md",
@@ -155,8 +126,6 @@
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Leibnitzovo kritérium.md",
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Podílové kritérium.md",
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Srovnávací kritérium.md",
-    "Matematika 2/Řešené příklady/Příklad 3.1.md",
-    "Matematika 2/Řešené příklady/Příklad 7.2.md",
     "Matematika 2/Nekonečné řady/Kritéria konvergence/Odmocninové kritérium.md",
     "Matematika 2/Nekonečné řady/Podmínky konvergence.md",
     "Matematika 1/Příklady/Příklad 4.46.md"
